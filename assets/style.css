@@ -1,6 +1,7 @@
 :root {
   --font: 'Inter UI var alt', sans-serif;
   --light: #f4f4f4;
+  --grey: #bebebe;
   --faded-text: #666;
   --dark: #222;
   --purple-main: #aa43b9;
@@ -43,4 +44,24 @@ html {
 .w {
   max-width: 960px;
   margin: 0 auto;
+}
+
+label, input {
+  display: block;
+  width: 100%;
+  font-size: 1em;
+  padding: 0.5em 0.75em;
+  background: white;
+  border: 2px solid var(--grey);
+  margin-top: 1em;
+}
+
+input[type='submit'] {
+  background: var(--green-bright);
+  color: white;
+  border-color: transparent;
+}
+
+input:focus {
+  border-color: var(--green-bright);
 }
