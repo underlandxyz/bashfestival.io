@@ -1,8 +1,9 @@
 <template>
   <header>
     <div id="notice-line">
-      <span class="dates">August 5-11, 2019. Across the UK.</span>
+      <span class="dates">August 5-11, 2019. Across the UK, with a finale in Birmingham.</span>
       <div class="meta">
+        <n-link to='#'>Code of Conduct</n-link>
         <n-link to='#'>Sponsor BASH Festival</n-link>
         <n-link to='#'>An event by Underland</n-link>
       </div>
@@ -13,11 +14,12 @@
           <img src="~/assets/img/logo-white.svg" alt="~ BASH Logo">
           <h1>BASH Festival</h1>
         </n-link>
-        <n-link to='#' class='bold'>Item 1</n-link>
-        <n-link to='#' class='bold'>Item 2</n-link>
-        <n-link to='#' class='bold'>Item 3</n-link>
-        <n-link to='#' class='minor'>Minor 1</n-link>
-        <n-link to='#' class='minor'>Minor 2</n-link>
+        <n-link to='#' class='bold'>The Week</n-link>
+        <n-link to='#' class='bold'>Weekend</n-link>
+        <n-link to='#' class='bold'>Themes</n-link>
+        <n-link to='#' class='minor'>About</n-link>
+        <n-link to='#' class='minor'>FAQ</n-link>
+        <n-link to='#' class='minor'>Contact</n-link>
       </nav>
       <n-link to='/' class="cta btn">Apply now</n-link>
     </div>
