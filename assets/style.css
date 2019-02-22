@@ -1,0 +1,41 @@
+:root {
+  --font: 'Inter UI var alt', sans-serif;
+  --light: #f4f4f4;
+  --faded-text: #666;
+  --dark: #222;
+  --purple-main: #aa43b9;
+  --purple-dark: #441e98;
+  --purple-pastel: #8166cd;
+  --pink-baby: #eda4c1;
+  --pink-bright: #fc4f83;
+  --pink-dark: #d31d53;
+  --pink-light: #ff75e3;
+  --salmon: #ff858a;
+  --red-pastel: #ff6961;
+  --orange: #db8b1b;
+  --green-light: #6bc8b0;
+  --green-bright: #24CBA3;
+  --green-grass: #01684f;
+  --yellow: #ffc84c;
+  --blue: #3f46ad;
+  --blue-dark: #252a7a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: inherit;
+}
+
+html {
+  font-family: var(--font);
+  line-height: 1.25;
+  color: var(--dark); 
+}
+
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: 'Inter UI var alt', sans-serif;
+  }
+}
