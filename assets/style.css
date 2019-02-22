@@ -14,7 +14,7 @@
   --red-pastel: #ff6961;
   --orange: #db8b1b;
   --green-light: #6bc8b0;
-  --green-bright: #24CBA3;
+  --green-bright: #1db491;
   --green-grass: #01684f;
   --yellow: #ffc84c;
   --blue: #3f46ad;
@@ -30,7 +30,7 @@
 
 html {
   font-family: var(--font);
-  line-height: 1.25;
+  line-height: 1.5;
   color: var(--dark); 
 }
 
@@ -38,4 +38,9 @@ html {
   html {
     font-family: 'Inter UI var alt', sans-serif;
   }
+}
+
+.w {
+  max-width: 960px;
+  margin: 0 auto;
 }

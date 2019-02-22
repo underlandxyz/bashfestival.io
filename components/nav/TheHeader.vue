@@ -16,7 +16,6 @@
         </n-link>
         <n-link to='#' class='bold'>The Week</n-link>
         <n-link to='#' class='bold'>Weekend</n-link>
-        <n-link to='#' class='bold'>Themes</n-link>
         <n-link to='#' class='minor'>About</n-link>
         <n-link to='#' class='minor'>FAQ</n-link>
         <n-link to='#' class='minor'>Contact</n-link>
