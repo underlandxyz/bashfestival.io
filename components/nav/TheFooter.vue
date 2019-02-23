@@ -4,11 +4,11 @@
       <div class='section'>
         <h2>About</h2>
         <div class="items">
-          <n-link to='#'>About BASH Festival</n-link>
-          <n-link to='#'>Team members</n-link>
-          <n-link to='#'>Success framework</n-link>
-          <n-link to='#'>Contact us</n-link>
-          <n-link to='#'>FAQ</n-link>
+          <n-link to='/about'>About BASH Festival</n-link>
+          <n-link to='/about/team'>Team members</n-link>
+          <n-link to='/about/success'>Success framework</n-link>
+          <n-link to='/contact'>Contact us</n-link>
+          <n-link to='/faq'>FAQ</n-link>
         </div>
       </div>
       <div class='section'>
@@ -32,18 +32,18 @@
       </div>
       <div class='section'>
         <h2>Support BASH</h2>
-        <n-link to='#'>Sponsor event</n-link>
-        <n-link to='#'>Register as a mentor</n-link>
-        <n-link to='#'>Be a weekend volunteer</n-link>
-        <n-link to='#'>Propose a weekend session</n-link>
+        <n-link to='/sponsorship'>Sponsor event</n-link>
+        <n-link to='/support'>Register as a mentor</n-link>
+        <n-link to='/support'>Be a weekend volunteer</n-link>
+        <a href="mailto:tbc">Propose a weekend session</a>
       </div>
       <div class='section'>
         <h2>Attending BASH</h2>
-        <n-link to='#'>Application process</n-link>
-        <n-link to='#'>Travel information</n-link>
-        <n-link to='#'>Code of Conduct</n-link>
-        <n-link to='#'>Health & Safety Policy</n-link>
-        <n-link to='#'>Safeguarding Policy</n-link>
+        <n-link to='/about/application'>Application process</n-link>
+        <n-link to='/about/travel'>Travel information</n-link>
+        <n-link to='/policies/conduct'>Code of Conduct</n-link>
+        <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
+        <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
       </div>
     </div>
     <div id="underland">

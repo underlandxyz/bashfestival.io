@@ -1,0 +1,5 @@
+<template>
+  <div class='w'>
+    <h1 id="title">Sponsor BASH Festival</h1>
+  </div>
+</template>
