@@ -50,6 +50,7 @@
       <a href="https://underland.xyz">
         <img src="@/assets/underland-logo.svg" alt="Underland Logo">
       </a>
+      <n-link to='/about/colophon' class='c'>Colophon</n-link>
     </div>
   </footer>
 </template>
@@ -87,6 +88,13 @@
     height: 3em;
     display: block;
     margin: 0 auto;
+  }
+  .c {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-top: 1em;
   }
 }
 </style>
