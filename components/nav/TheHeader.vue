@@ -17,7 +17,7 @@
         <n-link to='/week' class='bold'>The Week</n-link>
         <n-link to='/weekend' class='bold'>Weekend</n-link>
         <n-link to='/about' class='minor'>About</n-link>
-        <n-link to='/faq' class='minor'>FAQ</n-link>
+        <n-link to='/support' class='minor'>Volunteer</n-link>
         <n-link to='/contact' class='minor'>Contact</n-link>
       </nav>
       <n-link to='/apply' class="cta btn">Apply now</n-link>

@@ -39,8 +39,8 @@
       </div>
       <div class='section'>
         <h2>Attending BASH</h2>
-        <n-link to='/about/application'>Application process</n-link>
-        <n-link to='/about/travel'>Travel information</n-link>
+        <n-link to='/about/application'>Application Process</n-link>
+        <n-link to='/weekend/venue'>Venue & Travel Info</n-link>
         <n-link to='/policies/conduct'>Code of Conduct</n-link>
         <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
         <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
