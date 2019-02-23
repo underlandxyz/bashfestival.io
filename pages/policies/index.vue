@@ -5,6 +5,7 @@
     <p>They're listed below. If you have any questions about them, please <n-link to='/contact'>contact us</n-link>.</p>
     <ul>
       <li><n-link to='/policies/conduct'>Code of Conduct</n-link></li>
+      <li><n-link to='/policies/incident-response'>Incident Response Policy</n-link></li>
       <li><n-link to='/policies/health-safety'>Health & Safety Policy</n-link></li>
       <li><n-link to='/policies/conduct'>Safeguarding Policy</n-link></li>
     </ul>
