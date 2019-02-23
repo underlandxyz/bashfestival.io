@@ -1,6 +1,6 @@
 <template>
   <div>
-    <SubHeaderAbout />
+    <SubHeaderWeek />
     <div class='w'>
       <h1 id="title">Regional Hubs</h1>
     </div>
@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import SubHeaderAbout from '@/components/nav/subnavs/SubHeaderAbout'
+import SubHeaderWeek from '@/components/nav/subnavs/SubHeaderWeek'
 export default {
-  components: { SubHeaderAbout }
+  components: { SubHeaderWeek }
 }
 </script>

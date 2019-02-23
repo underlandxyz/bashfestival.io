@@ -2,7 +2,7 @@
   <div>
     <SubHeaderWeekend />
     <div class='w'>
-      <h1 id="title">Finale Weekend</h1>
+      <h1 id="title">Sleeping Arrangements</h1>
     </div>
   </div>
 </template>
