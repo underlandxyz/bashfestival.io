@@ -41,9 +41,23 @@ html {
   }
 }
 
+#page {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#main {
+  flex: 1;
+}
+
 .w {
   max-width: 960px;
   margin: 0 auto;
+}
+
+h1#title {
+  margin: 1em 0;
 }
 
 label, input {
