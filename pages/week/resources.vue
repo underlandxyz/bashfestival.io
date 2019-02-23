@@ -2,7 +2,7 @@
   <div>
     <SubHeaderAbout />
     <div class='w'>
-      <h1 id="title">The Week</h1>
+      <h1 id="title">Resources</h1>
     </div>
   </div>
 </template>
