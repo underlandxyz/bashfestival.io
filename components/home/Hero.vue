@@ -1,5 +1,10 @@
 <template>
   <div id='hero'>
+    <div class="stars">
+      <div id="stars"></div>
+      <div id="stars2"></div>
+      <div id="stars3"></div>
+    </div>
     <div class="waveWrapper waveAnimation">
       <div class="waveWrapperInner bgTop">
         <div class="wave waveTop"></div>
@@ -20,12 +25,18 @@
 
 <style lang="scss" scoped>
 #hero {
-  padding-top: 4em;
-  padding-bottom: 12em;
   text-align: center;
   background: var(--green-bright);
   color: white;
   position: relative;
+  background: var(--blue);
+  background: linear-gradient(0deg, var(--blue) 0%, var(--blue-dark) 100%);
+  position: relative;
+  overflow: hidden;
+}
+.w {
+  padding-top: 4em;
+  padding-bottom: 12em;
 }
 h1 {
   font-size: 3vw;
@@ -77,21 +88,96 @@ h2 {
   transform-origin: center bottom;
   &.waveTop {
     background-size: 50% 100px;
-    animation: move-wave 3s;
-    -webkit-animation: move-wave 3s;
+    animation: move-wave 12s;
+    -webkit-animation: move-wave 12s;
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
     background-image: url('~assets/img/waves/top.png')
   }
   &.waveMiddle {
     background-size: 50% 120px;
-    animation: move_wave 10s linear infinite;
+    animation: move_wave 30s linear infinite;
     background-image: url('~assets/img/waves/middle.png')
   }
   &.waveBottom {
     background-size: 50% 100px;
-    animation: move_wave 15s linear infinite;
+    animation: move_wave 50s linear infinite;
     background-image: url('~assets/img/waves/bottom.png')
   }
 }
+</style>
+
+<style lang="sass" scoped>
+@function multiple-box-shadow ($n) 
+  $value: '#{random(2000)}px #{random(650)}px #FFF'
+  @for $i from 2 through $n
+    $value: '#{$value} , #{random(2000)}px #{random(650)}px #FFF'
+
+  @return unquote($value)
+
+$shadows-small:  multiple-box-shadow(700)
+$shadows-medium: multiple-box-shadow(200)
+$shadows-big:    multiple-box-shadow(100)
+
+.stars
+  opacity: 0.25
+
+@media (prefers-reduced-motion: reduce)
+  .stars
+    display: none
+
+#stars
+  width: 1px
+  height: 1px
+  background: transparent
+  box-shadow: $shadows-small
+  animation			: animStar 50s linear infinite
+    
+  &:after
+    content: " "
+    position: absolute
+    top: 650px
+    width: 1px
+    height: 1px
+    background: transparent
+    box-shadow: $shadows-small
+    
+#stars2
+  width: 2px
+  height: 2px
+  background: transparent
+  box-shadow: $shadows-medium
+  animation			: animStar 100s linear infinite
+    
+  &:after
+    content: " "
+    position: absolute
+    top: 650px
+    width: 2px
+    height: 2px
+    background: transparent
+    box-shadow: $shadows-medium
+    
+#stars3
+  width: 3px
+  height: 3px
+  background: transparent
+  box-shadow: $shadows-big
+  animation			: animStar 150s linear infinite
+    
+  &:after
+    content: " "
+    position: absolute
+    top: 650px
+    width: 3px
+    height: 3px
+    background: transparent
+    box-shadow: $shadows-big
+
+@keyframes animStar
+  from	
+    transform: translateY(0px)
+  to		
+    transform: translateY(-650px)
+    
 </style>

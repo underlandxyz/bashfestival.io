@@ -94,7 +94,7 @@ label, input {
 }
 
 input[type='submit'] {
-  background: var(--green-bright);
+  background: var(--pink-dark);
   color: white;
   border-color: transparent;
 }
