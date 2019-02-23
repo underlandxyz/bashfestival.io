@@ -1,0 +1,27 @@
+<template>
+  <SubHeader :links='subnav' :main='main' />
+</template>
+
+<script>
+import SubHeader from '~/components/nav/subnavs/SubHeader'
+
+export default {
+  data() {
+    return {
+      main: {
+        text: 'Policies',
+        path: '/policies'
+      },
+      subnav: [
+        { text: 'Code of Conduct', path: '/policies/conduct' },
+        { text: 'Incident Response', path: '/policies/incident-response' },
+        { text: 'Health & Safety', path: '/policies/health-safety' },
+        { text: 'Safeguarding', path: '/policies/safeguarding' },
+      ]
+    }
+  },
+  components: {
+    SubHeader
+  }
+}
+</script>
