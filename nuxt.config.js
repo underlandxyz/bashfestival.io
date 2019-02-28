@@ -42,6 +42,11 @@ module.exports = {
   ** Nuxt.js modules
   */
   modules: [
+    '@nuxtjs/redirect-module'
+  ],
+
+  redirect: [
+    { from: '^/sponsorship', to: '/support/sponsor' }
   ],
 
   /*

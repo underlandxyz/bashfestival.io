@@ -32,9 +32,10 @@
       </div>
       <div class='section'>
         <h2>Support BASH</h2>
-        <n-link to='/sponsorship'>Sponsor event</n-link>
-        <n-link to='/support'>Register as a mentor</n-link>
-        <n-link to='/support'>Be a weekend volunteer</n-link>
+        <n-link to='/support/sponsor'>Sponsor event</n-link>
+        <n-link to='/support/mentor'>Register as a mentor</n-link>
+        <n-link to='/support/volunteer'>Be a weekend volunteer</n-link>
+        <n-link to='/support/share'>Share the word</n-link>
         <a href="mailto:tbc">Propose a weekend session</a>
       </div>
       <div class='section'>
