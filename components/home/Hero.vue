@@ -35,7 +35,7 @@
   overflow: hidden;
 }
 .w {
-  padding-top: 4em;
+  padding-top: 6em;
   padding-bottom: 12em;
 }
 h1 {
