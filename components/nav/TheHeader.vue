@@ -18,7 +18,7 @@
         <n-link to='/weekend' class='bold'>Weekend</n-link>
         <n-link to='/about' class='minor'>About</n-link>
         <n-link to='/support' class='minor'>Support</n-link>
-        <n-link to='/contact' class='minor'>Contact</n-link>
+        <n-link to='/policies' class='minor'>Policies</n-link>
       </nav>
       <n-link to='/apply' class="cta btn">Apply now</n-link>
     </div>

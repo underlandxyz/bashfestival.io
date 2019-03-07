@@ -13,10 +13,10 @@ export default {
         path: '/weekend'
       },
       subnav: [
-        { text: 'Packing List', path: '/weekend/packing' },
+        // { text: 'Packing List', path: '/weekend/packing' },
         { text: 'Venue', path: '/weekend/venue' },
-        { text: 'Schedule', path: '/weekend/schedule' },
-        { text: 'Sleeping', path: '/weekend/sleeping' },
+        // { text: 'Schedule', path: '/weekend/schedule' },
+        // { text: 'Sleeping', path: '/weekend/sleeping' },
       ]
     }
   },
