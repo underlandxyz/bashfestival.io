@@ -30,8 +30,6 @@
         <li>Reverse-isms, including reverse racism, reverse sexism, and cisphobia.</li>
         <li>Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you"</li>
         <li>Refusal to explain or debate social justice concepts</li>
-        <li>Communicating in a 'tone' you don't find congenial</li>
-        <li>Criticising racist, sexist, cissexist, or otherwise oppressive behavior or assumptions</li>
       </ul>
       <p>We expect people to follow these rules at all event venues should there be more than one.</p>
       <h2>Reporting Code of Conduct violations</h2>
