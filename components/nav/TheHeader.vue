@@ -7,7 +7,7 @@
           <n-link to='/policies/conduct'>Code of Conduct</n-link>
           <n-link to='/contact'>Contact Us</n-link>
           <n-link to='/support/sponsor'>Sponsor BASH Festival</n-link>
-          <a class='ul' href='https://underland.xyz'>An event by Underland</a>
+          <a  href='https://underland.xyz'>An event by Underland</a>
         </div>
       </div>
       <div id="core">
@@ -16,26 +16,55 @@
             <img src="~/assets/img/logo-white.svg" alt="~ BASH Logo">
             <h1>BASH Festival</h1>
           </n-link>
-          <n-link to='/week' class='bold'>The Week</n-link>
-          <n-link to='/weekend' class='bold'>Weekend</n-link>
-          <n-link to='/about' class='minor'>About</n-link>
-          <n-link to='/support' class='minor'>Support</n-link>
-          <n-link to='/policies' class='minor'>Policies</n-link>
+          <div class="inner">
+            <n-link v-for='link in nav' :key='link.path' :to='link.path' :class='link.class'>{{link.text}}</n-link>
+          </div>
         </nav>
-        <n-link to='/apply' class="cta btn">Apply now</n-link>
+        <n-link to='/apply' class="cta btn apply">Apply now</n-link>
+        <div id="mob-menu" @click='menuToggle'>Menu <i class="fa fa-bars"></i></div>
       </div>
     </header>
+    <MobNav :data='nav' v-if='showNav' v-click-outside="clickOutsideMobNav" @closed='menuToggle' />
   </div>
 </template>
 
 <script>
+import MobNav from '@/components/nav/MobNav';
+import vClickOutside from 'v-click-outside'
+
 export default {
   data() {
     return {
-      nav: {
-
+      showNav: false,
+      nav: [
+        { text: 'The Week', path: '/week', class:'bold' },
+        { text: 'Weekend', path: '/weekend', class:'bold' },
+        { text: 'About', path: '/about', class:'minor' },
+        { text: 'Support', path: '/support', class:'minor' },
+        { text: 'Policies', path: '/policies', class:'minor' }
+      ]
+    }
+  },
+  methods: {
+    menuToggle() {
+      this.showNav = !this.showNav;
+    },
+    clickOutsideMobNav(e) {
+      if(e.target.id != 'mob-menu') {
+        this.showNav = false;
       }
     }
+  },
+  directives: {
+    clickOutside: vClickOutside.directive
+  },
+  watch:{
+    $route (to, from){
+      this.showNav = false;
+    }
+  },
+  components: {
+    MobNav
   }
 }
 </script>
@@ -56,17 +85,7 @@ export default {
     text-decoration: none;
   }
   @media screen and (max-width: 1000px) {
-    justify-content: center;
-    .dates {
-      display: none;
-    }
-    .meta a {
-      display: none;
-      margin-left: 0;
-      &.ul {
-        display: block;
-      }
-    }
+    display: none;
   }
 }
 
@@ -121,6 +140,24 @@ export default {
     text-transform: uppercase;
     text-decoration: none;
     font-weight: bold;
+  }
+  #mob-menu {
+    display: none;
+  }
+  @media screen and (max-width: 1000px) {
+    .inner,
+    .cta {
+      display: none;
+    }
+    #mob-menu {
+      display: block;
+      padding: 1.5em;
+      text-transform: uppercase;
+      cursor: pointer;
+      i {
+        margin-left: 0.5em;
+      }
+    }
   }
 }
 </style>
