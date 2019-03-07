@@ -1,14 +1,24 @@
 <template>
-  <!-- <footer>
+  <footer>
     <div id="core">
       <div class='section'>
         <h2>About</h2>
         <div class="items">
           <n-link to='/about'>About BASH Festival</n-link>
-          <n-link to='/about/team'>Team members</n-link>
+          <n-link to='/about/application'>Application process</n-link>
           <n-link to='/about/success'>Success framework</n-link>
+          <n-link to='/about/team'>Team members</n-link>
+          <n-link to='/about/faq'>FAQ</n-link>
           <n-link to='/contact'>Contact us</n-link>
-          <n-link to='/faq'>FAQ</n-link>
+        </div>
+      </div>
+      <div class='section'>
+        <h2>The Event</h2>
+        <div class="items">
+          <n-link to='/week'>The Week</n-link>
+          <n-link to='/week/hubs'>Regional Hubs</n-link>
+          <n-link to='/weekend'>Weekend Finale</n-link>
+          <n-link to='/weekend/venue'>Weekend Venue</n-link>
         </div>
       </div>
       <div class='section'>
@@ -36,17 +46,15 @@
         <n-link to='/support/mentor'>Register as a mentor</n-link>
         <n-link to='/support/volunteer'>Be a weekend volunteer</n-link>
         <n-link to='/support/share'>Share the word</n-link>
-        <a href="mailto:tbc">Propose a weekend session</a>
       </div>
       <div class='section'>
-        <h2>Attending BASH</h2>
-        <n-link to='/about/application'>Application Process</n-link>
-        <n-link to='/weekend/venue'>Venue & Travel Info</n-link>
+        <h2>Policies</h2>
         <n-link to='/policies/conduct'>Code of Conduct</n-link>
+        <n-link to='/policies/incident-response'>Incident Response Policy</n-link>
         <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
         <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
       </div>
-    </div> -->
+    </div>
     <div id="underland">
       <a href="https://underland.xyz">
         <img src="@/assets/underland-logo.svg" alt="Underland Logo">
@@ -61,7 +69,7 @@
   background: var(--blue);
   color: white;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
   grid-gap: 2em;
   padding: 1em;
   h2 {
@@ -83,7 +91,7 @@
   }
 }
 #underland {
-  background: var(--blue);
+  background: var(--blue-dark);
   padding: 2em;
   img {
     height: 3em;
