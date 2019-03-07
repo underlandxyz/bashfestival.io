@@ -41,5 +41,14 @@ h2 {
       font-size: 0.8em;
     }
   }
+  @media screen and (max-width: 1000px) {
+    grid-template-columns: 1fr;
+    grid-gap: 0;    
+    .theme img {
+      height: auto;
+      width: 60%;
+      margin-bottom: 0;
+    }
+  }
 }
 </style>

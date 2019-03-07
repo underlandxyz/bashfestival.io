@@ -48,4 +48,21 @@ h2 {
 span {
   text-transform: uppercase;
 }
+@media screen and (max-width: 1000px) {
+  .w {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .img {
+    display: none;
+  }
+  .stat {
+    padding: 0.5em;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  span {
+    font-size: 0.8em;
+  }
+}
 </style>

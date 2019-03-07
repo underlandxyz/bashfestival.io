@@ -89,6 +89,9 @@
       margin-right: 1em;
     }
   }
+  @media screen and (max-width: 1000px) {
+    display: none; 
+  }
 }
 #underland {
   background: var(--blue-dark);

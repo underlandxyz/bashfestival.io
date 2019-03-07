@@ -25,4 +25,16 @@
 img {
   height: 15em;
 }
+@media screen and (max-width: 1000px) {
+  .w {
+    padding-top: 2em;
+    flex-direction: column;
+    text-align: center;
+  }
+  .text {
+    font-size: 1em;
+    margin-bottom: 2em;
+    padding-right: 0;
+  }
+}
 </style>

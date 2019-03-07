@@ -52,6 +52,31 @@ h3 {
   font-size: 1em;
   margin-top: 1em;
 }
+@media screen and (max-width: 1000px) {
+  .w {
+    padding-top: 3em;
+    padding-bottom: 3em;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+  h2 {
+    font-weight: normal;
+    font-size: 1em;
+  }
+  h3 {
+    font-size: 1.25em;
+  }
+  .wave {
+    display: none;
+  }
+  .wave,
+  #stars,
+  #stars2,
+  #stars3 {
+    animation: none !important;
+  }
+}
 @keyframes move_wave {
   0% { transform: translateX(0) translateZ(0) scaleY(1) }
   50% { transform: translateX(-25%) translateZ(0) scaleY(0.55) }
