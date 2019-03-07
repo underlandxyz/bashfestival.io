@@ -1,6 +1,6 @@
 <template>
   <div class='w'>
-    <h2>2019 Themes</h2>
+    <h2>2019 Challenges</h2>
     <div class="themes">
       <div class="theme">
         <img src="@/assets/img/themes/games.svg" alt="Icon for games">

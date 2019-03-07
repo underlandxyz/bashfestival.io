@@ -9,7 +9,7 @@
         <img src="@/assets/img/logo-white.svg" alt="~ BASH Logo">
       </div>
       <div class="stat">
-        <h2>15</h2>
+        <h2>10+</h2>
         <span>Regional Hubs</span>
       </div>
       <div class="img">
