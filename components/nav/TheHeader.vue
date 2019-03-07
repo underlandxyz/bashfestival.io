@@ -4,6 +4,7 @@
       <span class="dates">August 5-11, 2019. Across the UK, with a finale in Birmingham.</span>
       <div class="meta">
         <n-link to='/policies/conduct'>Code of Conduct</n-link>
+        <n-link to='/contact'>Contact Us</n-link>
         <n-link to='/support/sponsor'>Sponsor BASH Festival</n-link>
         <a href='https://underland.xyz'>An event by Underland</a>
       </div>

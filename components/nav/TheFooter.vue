@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <!-- <footer>
     <div id="core">
       <div class='section'>
         <h2>About</h2>
@@ -46,7 +46,7 @@
         <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
         <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
       </div>
-    </div>
+    </div> -->
     <div id="underland">
       <a href="https://underland.xyz">
         <img src="@/assets/underland-logo.svg" alt="Underland Logo">
@@ -83,7 +83,7 @@
   }
 }
 #underland {
-  background: var(--blue-dark);
+  background: var(--blue);
   padding: 2em;
   img {
     height: 3em;
