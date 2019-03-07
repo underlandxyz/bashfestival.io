@@ -1,7 +1,7 @@
 <template>
   <div class='w'>
     <div class="text">
-      <p>There's many organisations that teach young people technical skills, but few to help them once they've learnt the basics. We aim to provide an environment and community for technical young people to further build their skills and networks.</p>
+      <p>There are many great organisations that teach young people technical skills, but few to help them once they've learnt the basics. We aim to provide an environment and community for technical young people to further build their skills and networks.</p>
     </div>
     <div class="img">
       <img src="@/assets/img/jamie/build.svg" alt="Image of Jamie - our mascot - with a laptop">

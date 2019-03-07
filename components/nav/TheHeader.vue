@@ -1,30 +1,44 @@
 <template>
-  <header>
-    <div id="notice-line">
-      <span class="dates">August 5-11, 2019. Across the UK, with a finale in Birmingham.</span>
-      <div class="meta">
-        <n-link to='/policies/conduct'>Code of Conduct</n-link>
-        <n-link to='/contact'>Contact Us</n-link>
-        <n-link to='/support/sponsor'>Sponsor BASH Festival</n-link>
-        <a href='https://underland.xyz'>An event by Underland</a>
+  <div>
+    <header>
+      <div id="notice-line">
+        <span class="dates">August 5-11, 2019. Across the UK, with a finale in Birmingham.</span>
+        <div class="meta">
+          <n-link to='/policies/conduct'>Code of Conduct</n-link>
+          <n-link to='/contact'>Contact Us</n-link>
+          <n-link to='/support/sponsor'>Sponsor BASH Festival</n-link>
+          <a class='ul' href='https://underland.xyz'>An event by Underland</a>
+        </div>
       </div>
-    </div>
-    <div id="core">
-      <nav>
-        <n-link to='/' class='brand'>
-          <img src="~/assets/img/logo-white.svg" alt="~ BASH Logo">
-          <h1>BASH Festival</h1>
-        </n-link>
-        <n-link to='/week' class='bold'>The Week</n-link>
-        <n-link to='/weekend' class='bold'>Weekend</n-link>
-        <n-link to='/about' class='minor'>About</n-link>
-        <n-link to='/support' class='minor'>Support</n-link>
-        <n-link to='/policies' class='minor'>Policies</n-link>
-      </nav>
-      <n-link to='/apply' class="cta btn">Apply now</n-link>
-    </div>
-  </header>
+      <div id="core">
+        <nav>
+          <n-link to='/' class='brand'>
+            <img src="~/assets/img/logo-white.svg" alt="~ BASH Logo">
+            <h1>BASH Festival</h1>
+          </n-link>
+          <n-link to='/week' class='bold'>The Week</n-link>
+          <n-link to='/weekend' class='bold'>Weekend</n-link>
+          <n-link to='/about' class='minor'>About</n-link>
+          <n-link to='/support' class='minor'>Support</n-link>
+          <n-link to='/policies' class='minor'>Policies</n-link>
+        </nav>
+        <n-link to='/apply' class="cta btn">Apply now</n-link>
+      </div>
+    </header>
+  </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      nav: {
+
+      }
+    }
+  }
+}
+</script>
 
 <style lang="scss" scoped>
 #notice-line {
@@ -40,6 +54,19 @@
   .meta a {
     margin-left: 1em;
     text-decoration: none;
+  }
+  @media screen and (max-width: 1000px) {
+    justify-content: center;
+    .dates {
+      display: none;
+    }
+    .meta a {
+      display: none;
+      margin-left: 0;
+      &.ul {
+        display: block;
+      }
+    }
   }
 }
 

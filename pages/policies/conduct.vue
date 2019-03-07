@@ -2,7 +2,7 @@
   <div>
     <SubHeaderPolicies />
     <div class='w content'>
-      <h1 id="title">Code of Conduct</h1>
+      <h1 id="title">Code of Conduct 💖</h1>
       <p>We believe that everyone has the right to be in a safe and welcoming environment when attending BASH Festival. This Code of Conduct is about creating an open and welcoming environment at out event so that all our attendees feel able to participate while being safe and happy.</p>
       <p>People can have lots of viewpoints, and being part of this event means:</p>
       <ul>
