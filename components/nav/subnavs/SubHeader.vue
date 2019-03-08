@@ -32,5 +32,14 @@ export default {
       font-weight: bold;
     }
   }
+  @media screen and (max-width: 1000px) {
+    text-align: center;
+    a {
+      padding: 0.5em;
+      display: inline-block;
+      color: var(--dark);
+      font-weight: bold;
+    }
+  }
 }
 </style>
