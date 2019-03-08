@@ -15,7 +15,7 @@
             </p>
           </div>
         </div>
-        <div class="person">
+        <div class="person final">
           <p>Also with huge thanks to <a href="https://twitter.com/SarahLCarter_">Sarah Carter</a> and <a href="https://twitter.com/jabrks">James Brooks</a> for their time and support.</p>
         </div>
       </div>
@@ -133,6 +133,9 @@ export default {
   }
   a {
     display: inline-block;
+  }
+  &.final {
+    text-align: center;
   }
 }
 </style>
