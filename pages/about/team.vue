@@ -56,7 +56,7 @@ export default {
           name: 'Sunil Patel', 
           role: 'Event Coordinator', 
           email: 'sunil@underland.xyz', 
-          pic: '/team/kev.jpg'
+          pic: '/team/sunil.png'
         },
         { 
           name: 'David Durant',
