@@ -69,7 +69,7 @@ export default {
           name: 'Sanziana Chiorescu', 
           role: 'Regional Hub Coordinator', 
           email: 'sanzi@bashfestival.io', 
-          twitter: 'SarahLCarter_', 
+          twitter: 'SanzianaCh', 
           pic: '/team/sanzi.jpeg' 
         },
         { name: 'Poppie Simmonds',
