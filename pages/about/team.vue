@@ -15,6 +15,9 @@
             </p>
           </div>
         </div>
+        <div class="person">
+          <p>Also with huge thanks to <a href="https://twitter.com/SarahLCarter_">Sarah Carter</a> and <a href="https://twitter.com/jabrks">James Brooks</a> for their time and support.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -67,13 +70,6 @@ export default {
           role: 'Regional Hub Coordinator', 
           email: 'sanzi@bashfestival.io', 
           twitter: 'SarahLCarter_', 
-          pic: '/team/sc.jpg' 
-        },
-        { 
-          name: 'Sarah Carter', 
-          role: 'Regional Hub Coordinator', 
-          email: 'sarah@bashfestival.io', 
-          twitter: 'SanzianaCh', 
           pic: '/team/sanzi.jpeg' 
         },
         { name: 'Poppie Simmonds',
@@ -113,7 +109,7 @@ export default {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 4em;
   @media screen and (max-width: 1000px) {
     grid-template-columns: 1fr; 
   }
@@ -134,6 +130,9 @@ export default {
   img {
     height: 8em;
     margin-right: 2em;
+  }
+  a {
+    display: inline-block;
   }
 }
 </style>
