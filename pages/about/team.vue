@@ -137,5 +137,19 @@ export default {
   &.final {
     text-align: center;
   }
+  @media screen and (max-width: 1000px) {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    h2 {
+      font-size: 1em;
+    }
+    img {
+      display: block;
+      margin: 0 auto 1em;
+    }
+  }
 }
 </style>

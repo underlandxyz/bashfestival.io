@@ -34,6 +34,7 @@ export default {
   }
   @media screen and (max-width: 1000px) {
     text-align: center;
+    margin-bottom: 3em;
     a {
       padding: 0.5em;
       display: inline-block;
