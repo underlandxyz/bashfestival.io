@@ -24,18 +24,19 @@
         <div id="mob-menu" @click='menuToggle'>Menu <i class="fa fa-bars"></i></div>
       </div>
     </header>
-    <MobNav :data='nav' v-if='showNav' v-click-outside="clickOutsideMobNav" @closed='menuToggle' />
+    <transition name="fade">
+      <MobNav :data='nav' v-if='showNav' @closed='menuToggle' />
+    </transition>
   </div>
 </template>
 
 <script>
 import MobNav from '@/components/nav/MobNav';
-import vClickOutside from 'v-click-outside'
 
 export default {
   data() {
     return {
-      showNav: false,
+      showNav: true,
       nav: [
         { text: 'The Week', path: '/week', class:'bold' },
         { text: 'Weekend', path: '/weekend', class:'bold' },
@@ -47,16 +48,8 @@ export default {
   },
   methods: {
     menuToggle() {
-      this.showNav = !this.showNav;
+      this.showNav = !this.showNav
     },
-    clickOutsideMobNav(e) {
-      if(e.target.id != 'mob-menu') {
-        this.showNav = false;
-      }
-    }
-  },
-  directives: {
-    clickOutside: vClickOutside.directive
   },
   watch:{
     $route (to, from){
@@ -159,5 +152,13 @@ export default {
       }
     }
   }
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.25s ease-out;
+}
+
+.fade-enter, .fade-leave-to {
+  opacity: 0;
 }
 </style>
