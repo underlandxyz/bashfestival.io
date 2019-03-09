@@ -4,6 +4,7 @@
       <li v-for='item in data' :key='item.path'>
         <n-link :to='item.path'>{{item.text}}</n-link>
       </li>
+      <li><n-link to='/apply' class='cta'>Apply now</n-link></li>
     </ul>
   </div>
 </template>
@@ -18,6 +19,7 @@ export default {
 #side-menu {
   background: var(--blue-dark);
   padding: 1em;
+  border-bottom: 2px solid white;
 }
 li {
   list-style: none;
@@ -35,6 +37,10 @@ a {
 }
 li:first-child a {
   margin-top: 0;
+}
+.cta {
+  background: var(--pink-dark);
+  color: white;
 }
 @media screen and (min-width: 1000px) {
   #side-menu {
