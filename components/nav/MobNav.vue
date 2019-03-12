@@ -19,7 +19,6 @@ export default {
 #side-menu {
   background: var(--blue-dark);
   padding: 1em;
-  border-bottom: 2px solid white;
 }
 li {
   list-style: none;

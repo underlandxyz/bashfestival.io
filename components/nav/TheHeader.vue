@@ -36,7 +36,7 @@ import MobNav from '@/components/nav/MobNav';
 export default {
   data() {
     return {
-      showNav: true,
+      showNav: false,
       nav: [
         { text: 'The Week', path: '/week', class:'bold' },
         { text: 'Weekend', path: '/weekend', class:'bold' },
