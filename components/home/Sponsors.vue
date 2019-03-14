@@ -6,14 +6,14 @@
     <a href="https://createk.io" target="_blank">
       <img src="~/assets/img/sponsors/createk.png" alt="Createk">
     </a>
-    <a href="https://www.ukgovcamp.com/" target="_blank">
-      <img src="~/assets/img/sponsors/ukgovcamp.png" alt="UKGovCamp Grants">
-    </a>
     <a href="https://balsamiq.com" target="_blank">
       <img src="~/assets/img/sponsors/balsamiq.png" alt="Balsamiq">
     </a>
     <a href="https://www.digitalocean.com" target="_blank">
       <img src="~/assets/img/sponsors/digitalocean.png" alt="DigitalOcean">
+    </a>
+    <a href="https://www.ukgovcamp.com/" target="_blank">
+      <img src="~/assets/img/sponsors/ukgovcamp.png" alt="UKGovCamp Grants">
     </a>
     <a href="http://front-line-tech.com/" target="_blank">
       <img src="~/assets/img/sponsors/frontlinetech.png" alt="Front-Line Technology">

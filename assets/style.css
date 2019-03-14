@@ -90,6 +90,10 @@ h1#title {
    }
 }
 
+input, textarea, button {
+  -webkit-appearance: none;
+}
+
 label, input {
   display: block;
   width: 100%;
