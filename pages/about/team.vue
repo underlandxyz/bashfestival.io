@@ -121,8 +121,8 @@ export default {
   align-items: center;
   line-height: 2;
   background: white;
-  border: 1px solid var(--light);
   padding: 1em;
+  border: 1px solid var(--light);
   box-shadow: 0.5em 0 0.5em rgba(0,0,0,0.125);
   h2 {
     font-size: 1.25em;
