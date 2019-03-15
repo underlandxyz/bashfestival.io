@@ -1,5 +1,5 @@
 <template>
-  <div id='sponsors'>
+  <div id='sponsors' class="w">
     <a href="https://wildrocket.io" target="_blank">
       <img src="~/assets/img/sponsors/wildrocket.png" alt="Wild Rocket Dev Studio">
     </a>
@@ -30,7 +30,6 @@
   grid-template-columns: repeat(7, 1fr);
   grid-gap: 2em;
   margin-bottom: 3em;
-  padding: 0 3em;
   a {
     display: block;
     img {
