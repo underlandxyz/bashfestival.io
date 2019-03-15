@@ -24,20 +24,10 @@
       <div class='section'>
         <h2>Regional Hubs</h2>
         <div class="items locations">
-          <n-link to='#'>Location 1</n-link>
-          <n-link to='#'>Location 2</n-link>
-          <n-link to='#'>Location 3</n-link>
-          <n-link to='#'>Location 4</n-link>
-          <n-link to='#'>Location 5</n-link>
-          <n-link to='#'>Location 6</n-link>
-          <n-link to='#'>Location 7</n-link>
-          <n-link to='#'>Location 8</n-link>
-          <n-link to='#'>Location 9</n-link>
-          <n-link to='#'>Location 10</n-link>
-          <n-link to='#'>Location 11</n-link>
-          <n-link to='#'>Location 12</n-link>
-          <n-link to='#'>Location 13</n-link>
-          <n-link to='#'>Location 14</n-link>
+          <n-link 
+            v-for='hub in hubs'
+            :key='hub.name'
+            to='/week/hubs'>{{hub.name}}</n-link>
         </div>
       </div>
       <div class='section'>
@@ -63,6 +53,16 @@
     </div>
   </footer>
 </template>
+
+<script>
+export default {
+  computed: {
+    hubs() {
+      return this.$store.state.hubs;
+    }
+  }
+}
+</script>
 
 <style lang="scss" scoped>
 #core {

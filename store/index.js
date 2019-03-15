@@ -1,15 +1,29 @@
-const state = () => ({
-  
+export const state = () => ({
+  hubs: [
+    {
+      name: 'Digital Plymouth',
+      address: 'THINQTANQ, Fairbairn House, Higher Lane, Plymouth PL1 2AN'
+    },
+    {
+      name: 'University of Sheffield',
+      address: 'Sir Frederick Mappin Building, Mappin Street, Sheffield, S1 3JD'
+    },
+    {
+      name: 'Aerospace Bristol',
+      address: 'Hayes Way, Patchway, Bristol BS34 5BZ',
+      notes: 'Sponsored by Rolls-Royce'
+    }
+  ]
 });
 
-const mutations = {
+export const mutations = {
 
 }
 
-const actions = {
+export const actions = {
 
 }
 
-const getters = {
+export const getters = {
   
 }

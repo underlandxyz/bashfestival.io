@@ -8,7 +8,7 @@
       <div id="hubs">
         <Hub 
           v-for='hub in hubs'
-          :key='hub.city'
+          :key='hub.name'
           :hub='hub' />
       </div>
     </div>
@@ -19,23 +19,9 @@
 import SubHeaderWeek from '@/components/nav/subnavs/SubHeaderWeek'
 import Hub from '@/components/hubs/Hub'
 export default {
-  data() {
-    return {
-      hubs: [
-        {
-          name: 'Digital Plymouth',
-          address: 'THINQTANQ, Fairbairn House, Higher Lane, Plymouth PL1 2AN'
-        },
-        {
-          name: 'University of Sheffield',
-          address: 'Sir Frederick Mappin Building, Mappin Street, Sheffield, S1 3JD'
-        },
-        {
-          name: 'Aerospace Bristol',
-          address: 'Hayes Way, Patchway, Bristol BS34 5BZ',
-          notes: 'Sponsored by Rolls-Royce'
-        }
-      ]
+  computed: {
+    hubs() {
+      return this.$store.state.hubs;
     }
   },
   components: { 
