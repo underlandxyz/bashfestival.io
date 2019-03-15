@@ -1,5 +1,5 @@
 <template>
-  <div id='sponsors' class='w'>
+  <div id='sponsors'>
     <a href="https://wildrocket.io" target="_blank">
       <img src="~/assets/img/sponsors/wildrocket.png" alt="Wild Rocket Dev Studio">
     </a>
@@ -8,6 +8,9 @@
     </a>
     <a href="https://balsamiq.com" target="_blank">
       <img src="~/assets/img/sponsors/balsamiq.png" alt="Balsamiq">
+    </a>
+    <a href="https://www.rolls-royce.com/" target="_blank">
+      <img src="~/assets/img/sponsors/rollsroyce.png" alt="Rolls-Royce">
     </a>
     <a href="https://www.digitalocean.com" target="_blank">
       <img src="~/assets/img/sponsors/digitalocean.png" alt="DigitalOcean">
@@ -24,9 +27,10 @@
 <style lang="scss" scoped>
 #sponsors {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   grid-gap: 2em;
   margin-bottom: 3em;
+  padding: 0 3em;
   a {
     display: block;
     img {
