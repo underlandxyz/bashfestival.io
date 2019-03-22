@@ -1,8 +1,7 @@
 export const state = () => ({
   hubs: [
     {
-      color: '#00CC6A', // GREEN
-      text: 'white',
+      color: '#ACE9DD',
       city: 'bristol',
       name: 'Aerospace Bristol',
       address: 'Hayes Way, Patchway, BS34 5BZ',
@@ -13,8 +12,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#00B7C3', // CYAN
-      text: 'white',
+      color: '#B7DCF4', // 
       city: 'sheffield',
       name: 'University of Sheffield',
       address: 'Sir Frederick Mappin Building, Mappin St, S1 3JD',
@@ -24,8 +22,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#744DA9', // PURPLE
-      text: 'white',
+      color: '#DBBDE5', 
       city: 'liverpool',
       name: 'The Studio',
       address: '41 Greenland St, L1 0BS',
@@ -35,8 +32,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#C239B3', // PINK
-      text: 'white',
+      color: '#B9C0C9', 
       city: 'manchester',
       name: 'The Shed',
       address: 'Manchester Metropolitan University, Chester St, M1 5GD',
@@ -46,8 +42,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#E3008C', // PINK
-      text: 'white',
+      color: '#FBEBA5', 
       city: 'plymouth',
       name: 'Digital Plymouth',
       address: 'THINQTANQ, Fairbairn House, Higher Lane, PL1 2AN',
@@ -57,8 +52,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#0063B1', // BLUE
-      text: 'white',
+      color: '#F6D3AF', 
       city: 'southampton',
       name: 'TechAgeKids',
       address: 'Exact location TBC',
@@ -68,8 +62,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#FFB900',
-      text: '#333',
+      color: '#F8C3B9',
       city: 'london',
       name: 'Goldsmiths, University of London',
       address: '8 Lewisham Way, New Cross, SE14 6NW',
@@ -79,8 +72,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#5f4472', // Rebel Uncut Purple
-      text: 'white',
+      color: '#F3DDE3', 
       city: 'birmingham',
       name: 'Rebel Makers Brum',
       address: 'Birmingham City Center - Exact location TBC',
@@ -90,8 +82,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#00AEEF',
-      text: 'white',
+      color: '#DBE2E2',
       city: 'edinburgh',
       name: 'Barclays Eagle Labs',
       address: 'Codebase, 38 Castle Terrace, EH3 9DZ',
@@ -101,8 +92,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#FF8C00',
-      text: 'white',
+      color: '#B5EFCE',
       city: 'nottingham',
       name: 'University of Nottingham',
       address: 'Jubilee Campus, Wollaton Road, NG8 1BB',

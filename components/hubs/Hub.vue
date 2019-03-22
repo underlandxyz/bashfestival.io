@@ -1,7 +1,7 @@
 <template>
   <n-link :to='hubPath' class='single' :style="{ background: hub.color }">
-    <div class="meta" :style="{ color: hub.text }">
-      <small :style="{ color: hub.color, background: hub.text }">{{hub.city}}</small>
+    <div class="meta">
+      <small>{{hub.city}}</small>
       <h2>{{hub.name}}</h2>
       <p class='address'>{{hub.address}}</p>
     </div>
@@ -23,7 +23,7 @@ export default {
 .single {
   background: var(--light);
   padding: 1em;
-  color: white;
+  color: var(--dark);
   text-decoration: none;
 }
 small {
@@ -31,6 +31,8 @@ small {
   padding: 0.25em 0.75em;
   display: inline-block;
   margin-bottom: 0.5em;
+  background: white;
+  color: var(--dark);
 }
 h2 {
   font-size: 1.25em;
