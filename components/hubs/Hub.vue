@@ -1,36 +1,55 @@
 <template>
-  <div class='single'>
-    <div class="meta">
+  <n-link :to='hubPath' class='single' :style="{ background: hub.color }">
+    <div class="meta" :style="{ color: hub.text }">
+      <small :style="{ color: hub.color, background: hub.text }">{{hub.city}}</small>
       <h2>{{hub.name}}</h2>
       <p class='address'>{{hub.address}}</p>
-      <p class='notes' v-if='hub.notes'>{{hub.notes}}</p>
     </div>
-  </div>
+  </n-link>
 </template>
 
 <script>
 export default {
-  props: ['hub']
+  props: ['hub'],
+  computed: {
+    hubPath() {
+      return `/week/hubs/${this.hub.city}`
+    }
+  }
 }
-// name, city, address, ?notes
 </script>
 
 <style lang='scss' scoped>
 .single {
   background: var(--light);
   padding: 1em;
-}
-.short {
   color: white;
-  background: var(--blue);
+  text-decoration: none;
+}
+small {
+  text-transform: uppercase;
+  padding: 0.25em 0.75em;
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+h2 {
+  font-size: 1.25em;
+  text-transform: capitalize;
+  text-transform: uppercase;
+}
+span {
+  font-weight: normal;
+  display: inline-block;
+  margin-left: 0.3em;
 }
 p {
   font-style: italic;
+  font-size: 0.75em;
   &.address {
-    margin: 0.5em 0;
+    margin-top: 0.5em;
   }
   &.notes {
-    color: grey;
+    margin-top: 0.5em;
   }
 }
 </style>

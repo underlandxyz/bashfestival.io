@@ -27,7 +27,7 @@
           <n-link 
             v-for='hub in hubs'
             :key='hub.name'
-            to='/week/hubs'>{{hub.name}}</n-link>
+            :to='hub.path'>{{hub.name}}</n-link>
         </div>
       </div>
       <div class='section'>
@@ -58,7 +58,12 @@
 export default {
   computed: {
     hubs() {
-      return this.$store.state.hubs;
+      return this.$store.state.hubs.map(hub => {
+        return {
+          ...hub,
+          path: '/week/hubs/' + hub.city
+        }
+      });
     }
   }
 }
@@ -68,10 +73,10 @@ export default {
 #core {
   background: var(--blue);
   color: white;
-  display: grid;
-  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
-  grid-gap: 2em;
   padding: 1em;
+  display: grid;
+  grid-gap: 2em;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
   h2 {
     font-size: 1em;
     text-transform: uppercase;
@@ -84,6 +89,7 @@ export default {
     font-size: 0.8em;
   }
   .locations {
+    padding-right: 2em;
     a {
       display: inline-block;
       margin-right: 1em;

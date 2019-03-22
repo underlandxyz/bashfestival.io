@@ -18,13 +18,13 @@ export default {
 
 <style lang="scss" scoped>
 #subheader {
-  background: var(--light);
+  background: var(--blue-light);
   padding: 1em;
   margin-bottom: 4em;
   font-size: 0.75em;
   line-height: 1.5;
   a {
-    color: var(--black);
+    color: white;
     text-transform: uppercase;
     margin-right: 1em;
     text-decoration: none;
@@ -38,7 +38,7 @@ export default {
     a {
       padding: 0.5em;
       display: inline-block;
-      color: var(--dark);
+      color: white;
       font-weight: bold;
     }
   }

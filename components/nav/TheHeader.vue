@@ -119,9 +119,11 @@ export default {
       }
       &.minor {
         border-right: 0;
-        padding-right: 0;
-        color: #ccc;
       }
+    }
+    .inner .nuxt-link-active {
+      background: var(--blue-light);
+      border-right: 0;
     }
   }
   .cta {

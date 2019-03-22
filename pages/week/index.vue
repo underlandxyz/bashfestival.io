@@ -12,7 +12,7 @@
       <h2>Costs</h2>
       <p>BASH Festival is completely free to attend and **run by volunteers**. It is formally run by <a href='https://underland.xyz' target='_blank'>Underland</a> and is funded by our sponsors. We will be publishing a transparency report after the event to recap our costs. If you are an organisation who can <n-link to='/support/sponsor'>sponsor BASH Festival</n-link>, please let us know.</p>
       <p>The only costs to you are:</p>
-      <ul>
+      <ul>  
         <li>Equipment: we are not supplying equipment, so you'll need to bring a laptop per-participant.</li>
         <li>Travel to locations: your regional hub and to Birmingham on Saturday (and returning on Sunday). We have a (very) small hardship fund to cover the costs of the weekend travel for families who can't afford it, which you can apply for at a later date.</li>
         <li>Food during the week: it is an expectation that you'll bring a packed lunch during the week. Some hubs may be able to provide lunch, but don't rely on this please.</li>
