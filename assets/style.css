@@ -114,3 +114,17 @@ input[type='submit'] {
 input:focus {
   border-color: var(--pink-dark);
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid var(--dark);
+  text-align: left;
+}
+
+th, td {
+  padding: 0.5em;
+}
