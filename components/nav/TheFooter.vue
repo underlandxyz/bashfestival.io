@@ -43,6 +43,7 @@
         <n-link to='/policies/incident-response'>Incident Response Policy</n-link>
         <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
         <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
+        <n-link to='/policies/privacy'>Privacy Policy</n-link>
       </div>
     </div>
     <div id="underland">

@@ -10,6 +10,7 @@
         <li><n-link to='/policies/incident-response'>Incident Response Policy</n-link></li>
         <li><n-link to='/policies/health-safety'>Health & Safety Policy</n-link></li>
         <li><n-link to='/policies/safeguarding'>Safeguarding Policy</n-link></li>
+        <li><n-link to='/policies/privacy'>Privacy Policy</n-link></li>
       </ul>
     </div>
   </div>

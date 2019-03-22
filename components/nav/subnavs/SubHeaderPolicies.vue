@@ -17,6 +17,7 @@ export default {
         { text: 'Incident Response', path: '/policies/incident-response' },
         { text: 'Health & Safety', path: '/policies/health-safety' },
         { text: 'Safeguarding', path: '/policies/safeguarding' },
+        { text: 'Privacy', path: '/policies/privacy' },
       ]
     }
   },
