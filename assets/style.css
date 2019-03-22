@@ -112,5 +112,5 @@ input[type='submit'] {
 }
 
 input:focus {
-  border-color: var(--green-bright);
+  border-color: var(--pink-dark);
 }
