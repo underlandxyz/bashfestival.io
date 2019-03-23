@@ -4,7 +4,7 @@
     <div class='w'>
       <h1 id="title">BASH Festival of Code Team</h1>
       <div id="team">
-        <div class="person" v-for='person in team' :key='person.name'>
+        <div class="person" v-for='person in team' :key='person.name' :style="{ background: person.color }">
           <img :src="person.pic">
           <div class="meta">
             <h2>{{person.name}}</h2>
@@ -43,59 +43,68 @@ export default {
           role: 'Co-Lead Organiser', 
           email: 'kevin@underland.xyz', 
           twitter: '_phzn',
-          pic: '/team/kev.jpg'
+          pic: '/team/kev.jpg',
+          color: '#ACE9DD'
         },
         { 
           name: 'Wilson Tolentino da Silva', 
           role: 'Co-Lead Organiser', 
           email: 'wilson@underland.xyz', 
           twitter: 'stdlibdoh', 
-          pic: '/team/wilson.jpg' 
+          pic: '/team/wilson.jpg' ,
+          color: '#B7DCF4',
         },
         { 
           name: 'Sunil Patel', 
           role: 'Event Coordinator', 
           email: 'sunil@underland.xyz', 
-          pic: '/team/sunil.png'
+          pic: '/team/sunil.png',
+          color: '#DBBDE5',
         },
         { 
           name: 'David Durant',
           role: 'Volunteer & Mentor Coordinator',
           email: 'david@bashfestival.io',
           twitter: 'cholten99',
-          pic: '/team/david.png' 
+          pic: '/team/david.png',
+          color: '#B9C0C9',
         },
         { 
           name: 'Sanziana Chiorescu', 
           role: 'Regional Hub Coordinator', 
           email: 'sanzi@bashfestival.io', 
           twitter: 'SanzianaCh', 
-          pic: '/team/sanzi.jpeg' 
+          pic: '/team/sanzi.jpeg',
+          color: '#FBEBA5',
         },
         { name: 'Poppie Simmonds',
           role: 'Attendee Operations & Support',
           email: 'poppie@bashfestival.io',
-          pic: '/team/poppie.jpg' 
+          pic: '/team/poppie.jpg',
+          color: '#F6D3AF',
         },
         { 
           name: 'Joshua Simpson',
           role: 'Attendee Operations & Support',
           email: 'josh@bashfestival.io',
           twitter: 'J0shSimpson',
-          pic: '/team/josh.jpg'
+          pic: '/team/josh.jpg',
+          color: '#F8C3B9',
         },
         { 
           name: 'An-Ni Chen',
           role: 'Weekend Content Coordinator',
           email: 'anni@bashfestival.io',
-          pic: '/team/anni.jpg' 
+          pic: '/team/anni.jpg',
+          color: '#F3DDE3', 
         },
         { 
           name: 'Bethany Loft',
           role: 'Data Processor',
           email: 'beth@bashfestival.io',
           twitter: 'bb_loft',
-          pic: '/team/beth.jpg' 
+          pic: '/team/beth.jpg',
+          color: '#B5EFCE',
         }
       ]
     }
@@ -120,10 +129,7 @@ export default {
   justify-content: flex-start;
   align-items: center;
   line-height: 2;
-  background: white;
   padding: 1em;
-  border: 1px solid var(--light);
-  box-shadow: 0.5em 0 0.5em rgba(0,0,0,0.125);
   h2 {
     font-size: 1.25em;
   }

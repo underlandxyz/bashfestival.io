@@ -35,6 +35,10 @@ export default {
             a: 'Any experience of written code at all. It might be some HTML and CSS for web design, a scripting or programming language, database querying languages, skills related to electronics or something else! If your skill relates only to \'drag-and-drop\' tools such as Scratch, this might not be the event for you.'
           },
           { 
+            q: 'What if I am not aged between 13 and 17?',
+            a: 'At BASH Festival of Code, we can only accept young people between the ages of 13 and 17 inclusive. If you fall outside of this bracket then you won\'t be able to attend BASH Festival of Code.'
+          },
+          { 
             q: 'How much does it cost?',
             a: 'Attending BASH Festival of Code is free! Regional Hubs are volunteer-run, and the weekend finale will be funded by sponsors. The only exceptions to this are travelling to your Hub and the finale, week day lunches, and your own snacks.'
           },
