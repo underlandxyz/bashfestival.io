@@ -57,8 +57,8 @@ export const state = () => ({
       name: 'TechAgeKids',
       address: 'Exact location TBC',
       loc: {
-        lat: 0,
-        lng: 0
+        lat: 50.909698,
+        lng: -1.404351
       }
     },
     {
@@ -77,8 +77,8 @@ export const state = () => ({
       name: 'Rebel Makers Brum',
       address: 'Birmingham City Center - Exact location TBC',
       loc: {
-        lat: 0,
-        lng: 0
+        lat: 52.486244,
+        lng: -1.890401
       }
     },
     {

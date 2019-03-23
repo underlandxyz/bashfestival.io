@@ -4,7 +4,19 @@
     <div class='w'>
       <h1 id="title">Regional Hubs</h1>
       <p>All regional hubs are generously volunteer-run and each will be able to host 15-20 young people during the week for the 2019 event. If you have questions please check the <n-link to='/about/faq'>FAQ</n-link> first and then direct any questions to the <n-link to='/contact'>BASH Festival of Code team</n-link>.</p>
-      <iframe src="https://snazzymaps.com/embed/122069" width="100%" height="400px" style="border:none;"></iframe>
+      <!-- <iframe src="https://snazzymaps.com/embed/122069" width="100%" height="400px" style="border:none;"></iframe> -->
+      <GmapMap
+        :zoom="5.5"
+        :center='{ lat: 53.486244, lng: -1.890401 }'
+        map-type-id="roadmap"
+        class='map'>
+        <GmapMarker
+          v-for='hub in hubs'
+          :key='hub.name'
+          :position="hub.loc"
+          :clickable="true"
+          :draggable="true" />
+      </GmapMap>
       <div id="hubs">
         <Hub 
           v-for='hub in hubs'
@@ -41,7 +53,12 @@ export default {
     grid-template-columns: 1fr;
   }
 }
-iframe {
-  margin: 4em 0 2em;
+.map {
+  margin: 2em 0;
+  width: 100%;
+  height: 500px;
+  @media screen and (max0width: 1000px) {
+    height: 56vw;
+  }
 }
 </style>
