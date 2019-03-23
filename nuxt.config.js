@@ -4,9 +4,6 @@ const pkg = require('./package')
 module.exports = {
   mode: 'spa',
 
-  /*
-  ** Headers of the page
-  */
   head: {
     title: 'BASH Festival 2019',
     meta: [
@@ -20,28 +17,16 @@ module.exports = {
     ]
   },
 
-  /*
-  ** Customize the progress-bar color
-  */
   loading: { color: '#fff' },
 
-  /*
-  ** Global CSS
-  */
   css: [
     '~/assets/style.css'
   ],
 
-  /*
-  ** Plugins to load before mounting the App
-  */
   plugins: [
     '~/plugins/gmaps'
   ],
 
-  /*
-  ** Nuxt.js modules
-  */
   modules: [
     '@nuxtjs/redirect-module'
   ],
@@ -50,13 +35,22 @@ module.exports = {
     { from: '^/sponsorship', to: '/support/sponsor' }
   ],
 
-  /*
-  ** Build configuration
-  */
+  generate: {
+    routes: [
+      '/week/hubs/bristol',
+      '/week/hubs/sheffield',
+      '/week/hubs/liverpool',
+      '/week/hubs/manchester',
+      '/week/hubs/plymouth',
+      '/week/hubs/southampton',
+      '/week/hubs/london',
+      '/week/hubs/birmingham',
+      '/week/hubs/edinburgh',
+      '/week/hubs/nottingham',
+    ]
+  },
+
   build: {
-    /*
-    ** You can extend webpack config here
-    */
     extend(config, ctx) {
       
     }

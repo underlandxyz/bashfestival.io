@@ -84,7 +84,7 @@ export default {
   computed: {
     filteredFaq() {
       return this.questions.filter(question => {
-        return question.q.toLowerCase().includes(this.search)
+        return question.q.toLowerCase().includes(this.search.toLowerCase())
       })
     }
   },

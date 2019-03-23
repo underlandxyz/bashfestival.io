@@ -36,7 +36,7 @@
         <n-link to='/support/sponsor'>Sponsor event</n-link>
         <n-link to='/support/mentor'>Register as a mentor</n-link>
         <n-link to='/support/volunteer'>Be a weekend volunteer</n-link>
-        <n-link to='/support/share'>Share the word</n-link>
+        <n-link to='/support/talk'>Speak at the weekend</n-link>
       </div>
       <div class='section'>
         <h2>Policies</h2>
