@@ -18,6 +18,9 @@ import Themes from '~/components/home/Themes'
 import MailingList from '~/components/contact/MailingList'
 
 export default {
+  head () {
+    return { title: `Home - ${this.$store.state.title}` }
+  },
   components: {
     Hero,
     Intro,

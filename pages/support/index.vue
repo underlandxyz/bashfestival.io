@@ -28,7 +28,10 @@
 <script>
   import SubHeaderSupport from '@/components/nav/subnavs/SubHeaderSupport'
   export default {
-    components: { SubHeaderSupport }
+    components: { SubHeaderSupport },
+    head () {
+    return { title: `Support - ${this.$store.state.title}` }
+  },
   }
 </script>
 

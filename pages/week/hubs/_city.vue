@@ -42,7 +42,11 @@ export default {
   },
   components: {
     SubHeaderWeek
-  }
+  },
+  head () {
+    const city = this.$route.params.city;
+    return { title: `${city.charAt(0).toUpperCase() + city.slice(1)} - ${this.$store.state.title}` }
+  },
 }
 </script>
 

@@ -88,6 +88,9 @@ export default {
       })
     }
   },
+  head () {
+    return { title: `FAQ - ${this.$store.state.title}` }
+  },
   components: { SubHeaderAbout }
 }
 </script>

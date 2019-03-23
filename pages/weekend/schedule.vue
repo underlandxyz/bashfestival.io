@@ -68,7 +68,10 @@ export default {
       ]
     }
   },
-  components: { SubHeaderWeekend }
+  components: { SubHeaderWeekend },
+  head () {
+    return { title: `Schedule - ${this.$store.state.title}` }
+  },
 }
 </script>
 

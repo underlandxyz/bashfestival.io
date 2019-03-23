@@ -10,6 +10,9 @@
 <script>
 import SubHeaderAbout from '@/components/nav/subnavs/SubHeaderAbout'
 export default {
+  head () {
+    return { title: `Application Process - ${this.$store.state.title}` }
+  },
   components: { SubHeaderAbout }
 }
 </script>

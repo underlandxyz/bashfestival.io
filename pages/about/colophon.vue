@@ -4,3 +4,11 @@
     <a href="https://codepen.io/plavookac/pen/QMwObb">Wave animation on home</a>
   </div>
 </template>
+
+<script>
+export default {
+  head () {
+    return { title: `Colophon - ${this.$store.state.title}` }
+  },
+}
+</script>

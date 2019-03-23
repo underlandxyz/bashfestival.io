@@ -109,7 +109,10 @@ export default {
       ]
     }
   },
-  components: { SubHeaderAbout }
+  components: { SubHeaderAbout },
+  head () {
+    return { title: `Team - ${this.$store.state.title}` }
+  },
 }
 </script>
 

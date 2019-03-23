@@ -1,4 +1,5 @@
 export const state = () => ({
+  title: 'BASH Festival of Code',
   hubs: [
     {
       color: '#ACE9DD',

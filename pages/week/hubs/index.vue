@@ -39,7 +39,10 @@ export default {
   components: { 
     SubHeaderWeek,
     Hub
-  }
+  },
+  head () {
+    return { title: `Regional Hubs - ${this.$store.state.title}` }
+  },
 }
 </script>
 

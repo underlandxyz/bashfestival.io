@@ -162,6 +162,9 @@ export default {
       return this.$store.state.hubs
     }
   },
-  components: { SubHeaderSupport }
+  components: { SubHeaderSupport },
+  head () {
+    return { title: `Sponsor - ${this.$store.state.title}` }
+  },
 }
 </script>

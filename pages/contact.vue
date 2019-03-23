@@ -16,3 +16,11 @@
     </ul>
   </div>
 </template>
+
+<script>
+export default {
+  head () {
+    return { title: `Contact - ${this.$store.state.title}` }
+  },
+}
+</script>

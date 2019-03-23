@@ -10,6 +10,9 @@
 <script>
 import SubHeaderAbout from '@/components/nav/subnavs/SubHeaderAbout'
 export default {
-  components: { SubHeaderAbout }
+  components: { SubHeaderAbout },
+  head () {
+    return { title: `About - ${this.$store.state.title}` }
+  },
 }
 </script>

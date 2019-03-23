@@ -19,6 +19,9 @@
 <script>
 import SubHeaderPolicies from '@/components/nav/subnavs/SubHeaderPolicies'
 export default {
-  components: { SubHeaderPolicies }
+  components: { SubHeaderPolicies },
+  head () {
+    return { title: `Policies - ${this.$store.state.title}` }
+  },
 }
 </script>

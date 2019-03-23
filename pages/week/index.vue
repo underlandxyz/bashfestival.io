@@ -24,6 +24,9 @@
 <script>
 import SubHeaderWeek from '@/components/nav/subnavs/SubHeaderWeek'
 export default {
-  components: { SubHeaderWeek }
+  components: { SubHeaderWeek },
+  head () {
+    return { title: `Week - ${this.$store.state.title}` }
+  },
 }
 </script>

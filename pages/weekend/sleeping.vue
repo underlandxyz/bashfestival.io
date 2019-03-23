@@ -10,6 +10,9 @@
 <script>
 import SubHeaderWeekend from '@/components/nav/subnavs/SubHeaderWeekend'
 export default {
-  components: { SubHeaderWeekend }
+  components: { SubHeaderWeekend },
+  head () {
+    return { title: `Sleeping - ${this.$store.state.title}` }
+  },
 }
 </script>
