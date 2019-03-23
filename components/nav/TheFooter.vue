@@ -24,6 +24,7 @@
       <div class='section'>
         <h2>Regional Hubs</h2>
         <div class="items locations">
+          <n-link to='/week/hubs'>All Regional Hubs</n-link>
           <n-link 
             v-for='hub in hubs'
             :key='hub.name'
