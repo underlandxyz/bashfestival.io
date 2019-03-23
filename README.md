@@ -1,6 +1,6 @@
 # bashfestival.io
 
-> Event website for BASH Festival
+> Event website for BASH Festival of Code
 
 ## Build Setup
 

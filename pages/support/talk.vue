@@ -2,7 +2,7 @@
   <div>
     <SubHeaderSupport />
     <div class='w'>
-      <h1 id="title">Share</h1>
+      <h1 id="title">Talk</h1>
     </div>
   </div>
 </template>

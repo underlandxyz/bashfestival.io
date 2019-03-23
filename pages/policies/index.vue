@@ -3,7 +3,7 @@
     <SubHeaderPolicies />
     <div class='w content'>
       <h1 id="title">Our policies</h1>
-      <p>There are a number of policies created by the BASH Festival team to ensure everyone is safe and happy throughout the event.</p>
+      <p>There are a number of policies created by the BASH Festival of Code team to ensure everyone is safe and happy throughout the event.</p>
       <p>They're listed below. If you have any questions about them, please <n-link to='/contact'>contact us</n-link>.</p>
       <ul>
         <li><n-link to='/policies/conduct'>Code of Conduct</n-link></li>

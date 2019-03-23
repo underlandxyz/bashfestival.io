@@ -2,7 +2,7 @@
   <div>
     <SubHeaderAbout />
     <div class='w'>
-      <h1 id="title">BASH Festival Team</h1>
+      <h1 id="title">BASH Festival of Code Team</h1>
       <div id="team">
         <div class="person" v-for='person in team' :key='person.name'>
           <img :src="person.pic">

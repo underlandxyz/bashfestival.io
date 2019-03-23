@@ -17,7 +17,10 @@
       </div>
     </div>
     <div class="w">
-      <h1>BASH Festival is a free week-long coding festival for 13-17 year olds.</h1>
+      <div class="img">
+        <img src="~/assets/img/logo-white.svg" alt="~ BASH Logo">
+      </div>
+      <h1>BASH Festival of Code is a free week-long coding festival for 13-17 year olds.</h1>
       <h2>Spend Monday to Friday building projects in teams in one of our regional hubs, supported by mentors. Then visit Birmingham for our finale weekend - present your projects, enjoy our five-stream content schedule, and make friends with other like-minded people.</h2>
       <h3>August 5 - 11 2019</h3>
     </div>
@@ -36,8 +39,12 @@
   overflow: hidden;
 }
 .w {
-  padding-top: 6em;
+  padding-top: 4em;
   padding-bottom: 12em;
+}
+img {
+  width: 150px;
+  margin-bottom: 3em;
 }
 h1 {
   font-size: 3vw;

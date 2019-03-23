@@ -6,15 +6,14 @@
         <div class="meta">
           <n-link to='/policies/conduct'>Code of Conduct</n-link>
           <n-link to='/contact'>Contact Us</n-link>
-          <n-link to='/support/sponsor'>Sponsor BASH Festival</n-link>
+          <n-link to='/support/sponsor'>Sponsor BASH Festival of Code</n-link>
           <a  href='https://underland.xyz'>An event by Underland</a>
         </div>
       </div>
       <div id="core">
         <nav>
           <n-link to='/' class='brand'>
-            <img src="~/assets/img/logo-white.svg" alt="~ BASH Logo">
-            <h1>BASH Festival</h1>
+            <h1>BASH Festival of Code</h1>
           </n-link>
           <div class="inner">
             <n-link v-for='link in nav' :key='link.path' :to='link.path' :class='link.class'>{{link.text}}</n-link>
@@ -101,16 +100,9 @@ export default {
       display: inline-block;
       border-right: 1px solid rgba(248,237,235,.1);
       &.brand {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        img {
-          height: 1em;
-        }
         h1 {
           font-size: 1em;
           text-transform: uppercase;
-          margin-left: 0.5em;
         }
       }
       &.bold {

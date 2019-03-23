@@ -2,7 +2,7 @@
   <div>
     <SubHeaderAbout />
     <div class='w'>
-      <h1 id="title">About BASH Festival</h1>
+      <h1 id="title">About BASH Festival of Code</h1>
     </div>
   </div>
 </template>

@@ -3,7 +3,7 @@
     <SubHeaderWeek />
     <div class='w'>
       <h1 id="title">Regional Hubs</h1>
-      <p>All regional hubs are generously volunteer-run and each will be able to host 15-20 young people during the week for the 2019 event. If you have questions please check the <n-link to='/about/faq'>FAQ</n-link> first and then direct any questions to the <n-link to='/contact'>BASH Festival team</n-link>.</p>
+      <p>All regional hubs are generously volunteer-run and each will be able to host 15-20 young people during the week for the 2019 event. If you have questions please check the <n-link to='/about/faq'>FAQ</n-link> first and then direct any questions to the <n-link to='/contact'>BASH Festival of Code team</n-link>.</p>
       <iframe src="https://snazzymaps.com/embed/122069" width="100%" height="400px" style="border:none;"></iframe>
       <div id="hubs">
         <Hub 

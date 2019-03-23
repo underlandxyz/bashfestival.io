@@ -2,8 +2,8 @@
   <div>
     <SubHeaderSupport />
     <div class='w'>
-      <h1 id="title">Sponsor BASH Festival 😍</h1>
-      <p>BASH Festival is a free week-long coding festival for 13-17 year olds who have had some exposure to development or digital design. It will take place on August 5th - 11th 2019.</p>
+      <h1 id="title">Sponsor BASH Festival of Code 😍</h1>
+      <p>BASH Festival of Code is a free week-long coding festival for 13-17 year olds who have had some exposure to development or digital design. It will take place on August 5th - 11th 2019.</p>
       <div class="intro">
         <div class="why">
           <h2>The need 👀</h2>

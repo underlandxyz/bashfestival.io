@@ -12,7 +12,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#B7DCF4', // 
+      color: '#B7DCF4',
       city: 'sheffield',
       name: 'University of Sheffield',
       address: 'Sir Frederick Mappin Building, Mappin St, S1 3JD',

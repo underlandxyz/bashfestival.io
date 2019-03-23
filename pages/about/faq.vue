@@ -23,8 +23,8 @@ export default {
       search:'',
       questions: [
           { 
-            q: 'Who is the BASH Festival for?',
-            a: 'BASH Festival is for young developers aged between 13-17. All you need is a basic working knowledge of at least one programming language. There will be other technical young people around to help you and work with you when you get there, and mentors to support you.'
+            q: 'Who is the BASH Festival of Code for?',
+            a: 'BASH Festival of Code is for young developers aged between 13-17. All you need is a basic working knowledge of at least one programming language. There will be other technical young people around to help you and work with you when you get there, and mentors to support you.'
           },
           { 
             q: 'Will you teach me to code?',
@@ -36,7 +36,7 @@ export default {
           },
           { 
             q: 'How much does it cost?',
-            a: 'Attending BASH Festival is free! Regional Hubs are volunteer-run, and the weekend finale will be funded by sponsors. The only exceptions to this are travelling to your Hub and the finale, week day lunches, and your own snacks.'
+            a: 'Attending BASH Festival of Code is free! Regional Hubs are volunteer-run, and the weekend finale will be funded by sponsors. The only exceptions to this are travelling to your Hub and the finale, week day lunches, and your own snacks.'
           },
           { 
             q: 'What if I do not know anyone?',
@@ -56,7 +56,7 @@ export default {
           },
           { 
             q: 'Do I have to attend the weekend finale?',
-            a: 'Yes - BASH Festival is a 7-day event, and the best part is the weekend! You will get to order to present your project, participate in our fun activities, and meet over 300 other young participants - taking your place in our national community.'
+            a: 'Yes - BASH Festival of Code is a 7-day event, and the best part is the weekend! You will get to order to present your project, participate in our fun activities, and meet over 300 other young participants - taking your place in our national community.'
           },
           { 
             q: 'What should I expect from the weekend?',
@@ -71,7 +71,7 @@ export default {
             a: 'No, and we would prefer they don\'t unless previously agreed. All participants will need parental permission to attend before their space at a Hub is confirmed. Emergency details will be shared with the Underland team and your Regional Hub Leader.'
           },
           { 
-            q: 'Who is behind the BASH Festival?',
+            q: 'Who is behind the BASH Festival of Code?',
             a: 'Underland are a London-based team specialising in software development, teaching people technical skills, and running specialist events. Our values are talk straight, get the job done, and don’t forget to have fun on the way.'
           },
       ]
