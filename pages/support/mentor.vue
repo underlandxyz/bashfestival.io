@@ -3,8 +3,13 @@
     <SubHeaderSupport />
     <div class='w content'>
       <h1 id="title">Mentor at BASH Festival of Code</h1>
-      <p>Mentors are a key part of making BASH Festival of Code impactful for the young people who attend. While they'll all have some degree of existing technical knowledge, we will encourage attendees to try new skills, and inevitably they'll need some support.</p>
-      <p>This is where you come in. Each Hub will have 3-4 mentors at any point in time. Your job isn't to build projects for attendees, but to support them in troubleshooting - pointing them in the direction of solutions and answering their questions.</p>
+      <div class="top">
+        <div class="copy">
+          <p>Mentors are a key part of making BASH Festival of Code impactful for the young people who attend. While they'll all have some degree of existing technical knowledge, we will encourage attendees to try new skills, and inevitably they'll need some support.</p>
+          <p>This is where you come in. Each Hub will have 3-4 mentors at any point in time. Your job isn't to build projects for attendees, but to support them in troubleshooting - pointing them in the direction of solutions and answering their questions.</p>
+        </div>
+        <img src="~/assets/img/jamie/mentor.svg" alt="Jamie mascot as a mentor">
+      </div>
       <h2>Interested?</h2>
       <p>We're still confirming the process to apply as a mentor, but here are the basics:</p>
       <ul>
@@ -31,5 +36,27 @@ export default {
 <style lang="scss" scoped>
 iframe {
   margin-top: 2em;
+}
+.top {
+  display: flex;
+  img {
+    flex: 100px;
+  }
+  .copy {
+    padding-right: 2em;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .top {
+    display: flex;
+    flex-direction: column-reverse;
+    .copy {
+      padding: 0;
+    }
+    img {
+      margin: 0 auto;
+      display: block;
+    }
+  }
 }
 </style>
