@@ -13,9 +13,9 @@
       <p>The data we collect from applications is only accessible to the BASH Festival of Code team, Hub Leaders and any parties which we must in order to run the event, for example venue security and trained volunteers on the weekend. Partners will only be given data which is required for their role.</p>
       <p>In the interest of transparency, we will detail below all parties who we have given access to your data, along with what they were given:</p>
       <ul>
-        <li>Application data: BASH Festival of Code team only</li>
+        <li>Application data: BASH Festival of Code team only.</li>
         <li>DBS-check form: Lead Organisers and our Data Processor only. The Volunteer & Mentor Coordinator and Regional Hub Coordinator will only know if DBS checks came back clear or with need for further action.</li>
-        <li>Attendee and parent names, contact detrails and special requirements: BASH Festival of Code team and Hub Leaders.</li>
+        <li>Attendee and parent names, contact details and special requirements: BASH Festival of Code team and Hub Leaders.</li>
         <li>Demographic details: anonymised, aggregated and made available as part of our post-event reporting.</li>
         <li>Dietary requirements: may be provided to caterers.</li>
       </ul>
@@ -28,7 +28,7 @@
         <li>Request that we avoid collecting anything in the future (opt-out).</li>
       </ol>
       <h2>Something feel out of place?</h2>
-      <p>If you believe at any point that we are not following this privacy policy as stated, please contact us immediately via email (bash@underland.xyz), or via telephone (+44 7492 886145).<p>
+      <p>If you believe at any point that we are not following this privacy policy as stated, please contact us immediately via email (<a href='mailto:bash@underland.xyz'>bash@underland.xyz</a>), or via telephone (+44 7492 886145).<p>
       <h2>Changes to policy</h2>
       <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
       <div class="log">

@@ -68,6 +68,9 @@
     font-size: 1.25em;
     margin-top: 2em;
   }
+  @media screen and (max-width: 1000px) {
+    grid-template-columns: 1fr;
+  }
 }
 .talk {
   background: #F6D3AF;

@@ -14,7 +14,7 @@
       <p>The only costs to you are:</p>
       <ul>  
         <li>Equipment: we are not supplying equipment, so you'll need to bring a laptop per-participant.</li>
-        <li>Travel to locations: your regional hub and to Birmingham on Saturday (and returning on Sunday). We have a (very) small hardship fund to cover the costs of the weekend travel for families who can't afford it, which you can apply for at a later date.</li>
+        <li>Travel to locations: your regional hub and to Birmingham on Saturday (and returning on Sunday). We have a (very) small Access Scheme fund to cover the costs of the weekend travel for families who can't afford it, which you can apply for at a later date.</li>
         <li>Food during the week: it is an expectation that you'll bring a packed lunch during the week. Some hubs may be able to provide lunch, but don't rely on this please.</li>
       </ul>
     </div>

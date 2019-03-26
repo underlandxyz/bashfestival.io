@@ -56,11 +56,11 @@ export default {
           },
           { 
             q: 'What do I need to bring to the weekend?',
-            a: 'Your laptop, hardware and chargers, a sleeping kit (pillow, sleeping bag and a roll mat or airbed), toiletries and a change of clothes. Closer to the event we will provide a more compehensive packing list.'
+            a: 'Your laptop, hardware and chargers, a sleeping kit (pillow, sleeping bag and a roll mat or airbed), toiletries and a change of clothes. Closer to the event we will provide a more comprehensive packing list.'
           },
           { 
             q: 'Do I have to attend the weekend finale?',
-            a: 'Yes - BASH Festival of Code is a 7-day event, and the best part is the weekend! You will get to order to present your project, participate in our fun activities, and meet over 300 other young participants - taking your place in our national community.'
+            a: 'Yes - BASH Festival of Code is a 7-day event, and the best part is the weekend! You will get to present your project, participate in our fun activities, and meet over 300 other young participants - taking your place in our national community.'
           },
           { 
             q: 'What should I expect from the weekend?',
