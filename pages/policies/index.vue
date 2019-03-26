@@ -7,11 +7,11 @@
       <p>They're listed below. If you have any questions about them, please <n-link to='/contact'>contact us</n-link>.</p>
       <ul>
         <li><n-link to='/policies/conduct'>Code of Conduct</n-link></li>
-        <li><n-link to='/policies/incident-response'>Incident Response Policy</n-link></li>
         <li><n-link to='/policies/health-safety'>Health & Safety Policy</n-link></li>
         <li><n-link to='/policies/safeguarding'>Safeguarding Policy</n-link></li>
         <li><n-link to='/policies/privacy'>Privacy Policy</n-link></li>
       </ul>
+      <p>We are still working on our Health &amp; Safety Policy as we confirm exactly which spaces we will be using at the weekend. We are also currently forming an Incident Response Policy, which detailes the steps we will take is any of our policies are broken.</p>
     </div>
   </div>
 </template>

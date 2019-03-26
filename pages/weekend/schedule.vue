@@ -3,7 +3,7 @@
     <SubHeaderWeekend />
     <div class='w content'>
       <h1 id="title">Weekend Schedule</h1>
-      <p>This schedule is still preliminary and subject to chage, but it should give you a pretty good idea on what to expect from the BASH Festival of Code weekend.</p>
+      <p>This schedule is still preliminary and subject to change, but it should give you a pretty good idea on what to expect from the BASH Festival of Code weekend.</p>
       <h2>Saturday 10th August</h2>
       <div class="table">
         <table>

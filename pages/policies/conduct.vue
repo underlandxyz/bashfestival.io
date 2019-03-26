@@ -3,7 +3,7 @@
     <SubHeaderPolicies />
     <div class='w content'>
       <h1 id="title">Code of Conduct 💖</h1>
-      <p>We believe that everyone has the right to be in a safe and welcoming environment when attending BASH Festival of Code. This Code of Conduct is about creating an open and welcoming environment at out event so that all our attendees feel able to participate while being safe and happy.</p>
+      <p>We believe that everyone has the right to be in a safe and welcoming environment when attending BASH Festival of Code. This Code of Conduct is about creating an open and welcoming environment at our event so that all our attendees feel able to participate while being safe and happy.</p>
       <p>People can have lots of viewpoints, and being part of this event means:</p>
       <ul>
         <li>Committing to helping each other</li>
@@ -25,7 +25,7 @@
       <p>Absolutely everyone involved with our activities, including participants, sponsors, guests, volunteers and our organisers, are subject to our Code of Conduct.</p>
       <p>If a person engages in any harassing behaviour, we may take any action we deem appropriate, including (but not limited to) warnings, expulsion, and banning, with no eligibility for reimbursement or refund of any type.</p>
       <h2>What we won't respond to</h2>
-      <p>Our community priotizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:</p>
+      <p>Our community priotises marginalised people's safety over privileged people's comfort. We will not act on complaints regarding:</p>
       <ul>
         <li>Reverse-isms, including reverse racism, reverse sexism, and cisphobia.</li>
         <li>Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you"</li>
@@ -43,6 +43,14 @@
       </ul>
       <h3>During the weekend</h3>
       <p>Any of the above methods will work, but you can additionally approach any volunteer, who will be clearly marked.</p>
+      <h2>Changes to policy</h2>
+      <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
+      <div class="log">
+        <h2>Revisions</h2>
+        <ul>
+          <li>20 February 2019: Initial version published, adapted from the core Underland Code of Conduct.</li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>

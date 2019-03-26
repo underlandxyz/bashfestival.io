@@ -14,7 +14,7 @@ export default {
       },
       subnav: [
         { text: 'Code of Conduct', path: '/policies/conduct' },
-        { text: 'Incident Response', path: '/policies/incident-response' },
+        // { text: 'Incident Response', path: '/policies/incident-response' },
         { text: 'Health & Safety', path: '/policies/health-safety' },
         { text: 'Safeguarding', path: '/policies/safeguarding' },
         { text: 'Privacy', path: '/policies/privacy' },

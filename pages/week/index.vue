@@ -10,7 +10,7 @@
       <p><i>Note: This is a full 7 day event - attendees are expected to attend Monday to Friday in their regional hubs and Saturday to Sunday in Birmingham for the <n-link to='/weekend'>finale weekend</n-link>.</i></p>
 
       <h2>Costs</h2>
-      <p>BASH Festival of Code is completely free to attend and **run by volunteers**. It is formally run by <a href='https://undand.xyz' target='_blank'>Underland</a> and is funded by our sponsors. We will be publishing a transparency report after the event to recap our costs. If you are an organisation who can <n-link to='/support/sponsor'>sponsor BASH Feserltival</n-link>, please let us know.</p>
+      <p>BASH Festival of Code is completely free to attend and **run by volunteers**. It is formally run by <a href='https://underland.xyz' target='_blank'>Underland</a> and is funded by our sponsors. We will be publishing a transparency report after the event to recap our costs. If you are an organisation who can <n-link to='/support/sponsor'>sponsor BASH Festival of Code</n-link>, please let us know.</p>
       <p>The only costs to you are:</p>
       <ul>  
         <li>Equipment: we are not supplying equipment, so you'll need to bring a laptop per-participant.</li>

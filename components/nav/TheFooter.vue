@@ -41,7 +41,7 @@
       <div class='section'>
         <h2>Policies</h2>
         <n-link to='/policies/conduct'>Code of Conduct</n-link>
-        <n-link to='/policies/incident-response'>Incident Response Policy</n-link>
+        <!-- <n-link to='/policies/incident-response'>Incident Response Policy</n-link> -->
         <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
         <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
         <n-link to='/policies/privacy'>Privacy Policy</n-link>

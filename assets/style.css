@@ -128,3 +128,16 @@ table, th, td {
 th, td {
   padding: 0.5em;
 }
+
+.log {
+  background: var(--light);
+  padding: 1em;
+  margin-top: 2em;
+}
+.log h2 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+.log ul {
+  margin-bottom: 0;
+}

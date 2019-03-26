@@ -50,14 +50,3 @@ export default {
   },
 }
 </script>
-
-<style lang="scss" scoped>
-.log {
-  background: var(--light);
-  padding: 1em;
-  margin-top: 2em;
-  h2 {
-    margin-top: 0;
-  }
-}
-</style>

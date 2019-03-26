@@ -1,8 +1,10 @@
 <template>
   <div>
     <SubHeaderPolicies />
-    <div class='w'>
+    <div class='w content'>
       <h1 id="title">Heath & Safety Policy</h1>
+      <p>We are still working on this policy as we are yet to confirm every space we will be using at the weekend finale. We would much rather delay the release of this policy and make sure it is well researched and thought through.</p>
+      <p><n-link to=/contact>If you have any questions please contact us.</n-link></p>
     </div>
   </div>
 </template>
