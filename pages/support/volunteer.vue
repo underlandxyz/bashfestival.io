@@ -53,25 +53,25 @@ iframe {
 margin-top: 2em;
 }
 .top {
-display: flex;
-img {
-  flex: 100px;
-}
-.copy {
-  padding-right: 2em;
-}
+  display: flex;
+  img {
+    flex: 100px;
+  }
+  .copy {
+    padding-right: 2em;
+  }
 }
 @media screen and (max-width: 1000px) {
-.top {
-  display: flex;
-  flex-direction: column-reverse;
-  .copy {
-    padding: 0;
+  .top {
+    display: flex;
+    flex-direction: column-reverse;
+    .copy {
+      padding: 0;
+    }
+    img {
+      margin: 0 auto;
+      display: block;
+    }
   }
-  img {
-    margin: 0 auto;
-    display: block;
-  }
-}
 }
 </style>
