@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id='mentor-page'>
     <SubHeaderSupport />
     <div class='w content'>
       <h1 id="title">Mentor at BASH Festival of Code</h1>
@@ -8,7 +8,6 @@
           <p>Mentors are a key part of making BASH Festival of Code impactful for the young people who attend. While they'll all have some degree of existing technical knowledge, we will encourage attendees to try new skills, and inevitably they'll need some support.</p>
           <p>This is where you come in. Each Hub will have 3-4 mentors at any point in time. Your job isn't to build projects for attendees, but to support them in troubleshooting - pointing them in the direction of solutions and answering their questions.</p>
         </div>
-        <img src="~/assets/img/jamie/mentor.svg" alt="Jamie mascot as a mentor">
       </div>
       <h2>Interested?</h2>
       <p>We're still confirming the process to apply as a mentor, but here are the basics:</p>
@@ -34,6 +33,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+// #mentor-page {
+//   background-image: url('/static/img/jamie/mentor.svg')
+// }
 iframe {
   margin-top: 2em;
 }

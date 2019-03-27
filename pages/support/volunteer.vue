@@ -7,9 +7,8 @@
       <div class="top">
         <div class="copy">
           <p>BASH Festival of Code is run by Underland as a for-good project. It's team is made up of Underland staff and a set of awesome volunteers who are helping because they see the value in supporting technical young people build their networks and skills.</p>
-          <p>The <n-link to='/week'>weekend</n-link> is going to be awesome, but it's also quite a complex event to organise with lots of moving parts. It simply won't run without support from additional volunteers - and that's where you come in!</p>
+          <p>The <n-link to='/weekend'>weekend</n-link> is going to be awesome, but it's also quite a complex event to organise with lots of moving parts. It simply won't run without support from additional volunteers - and that's where you come in!</p>
         </div>
-        <img src="~/assets/img/jamie/volunteer.svg" alt="Jamie mascot as a volunteer">
       </div>
       
       <p>Places we'll need help are:</p>
@@ -19,7 +18,6 @@
         <li>Making sure food is delivered fairly and efficiently</li>
         <li>Helping us make sure the multi-stream conference runs smoothly</li>
         <li>Overnight supervision of the sleeping spaces</li>
-        <li>Probably a whole bunch of other things we have forgotten</li>
       </ul>
       <p>We're still assessing the exact requirements for volunteers at the weekend, but we <b>will</b> need help. If you're able to set aside either or both of the days of BASH Festival of Code (or the overnight) please let us know by filling in the form below...</p>
       <iframe class="airtable-embed" src="https://airtable.com/embed/shrqcjsFIcKdH2ecu?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
