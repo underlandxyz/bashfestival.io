@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id='show-page'>
     <SubHeaderSupport />
     <div class='w content'>
       <h1 id="title">Deliver a talk or workshop at the weekend</h1>
@@ -28,5 +28,24 @@ export default {
 <style lang="scss" scoped>
 iframe {
   margin-top: 2em;
+}
+#show-page {
+  &::after {
+    background-image: url('~assets/img/jamie/show.svg');
+    background-position: right;
+    background-size: 25vw;
+    background-repeat: no-repeat;
+    content: "";
+    opacity: 0.25;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+    @media screen and (max-width: 1000px) {
+      display: none;
+    }
+  }
 }
 </style>
