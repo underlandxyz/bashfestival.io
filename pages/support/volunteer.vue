@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id='volunteer-page'>
     <SubHeaderSupport />
     <div class='w content'>
       <h1 id="title">Volunteer at the BASH Festival of Code Weekend</h1>
@@ -36,7 +36,26 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  .info {
+#volunteer-page {
+  &::after {
+    background-image: url('~assets/img/jamie/volunteer.svg');
+    background-position: right;
+    background-size: 25vw;
+    background-repeat: no-repeat;
+    content: "";
+    opacity: 0.15;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+    @media screen and (max-width: 1000px) {
+      display: none;
+    }
+  }
+}
+.info {
   background: var(--light);
   text-decoration: none;
   display: block;

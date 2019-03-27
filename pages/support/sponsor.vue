@@ -1,14 +1,11 @@
 <template>
-  <div>
+  <div id='sponsor-page'>
     <SubHeaderSupport />
     <div class='w'>
       <div class="top">
         <div class="copy">
           <h1 id="title">Sponsor BASH Festival of Code 😍</h1>
           <p>BASH Festival of Code is a free week-long coding festival for 13-17 year olds who have had some exposure to development or digital design. It will take place on August 5th - 11th 2019.</p>
-        </div>
-        <div class="img">
-          <img src="~/assets/img/jamie/sponsor.svg" alt="Jamie mascot as a sponsor">
         </div>
       </div>
       <div class="intro">
@@ -98,6 +95,7 @@
 </template>
 
 <style lang="scss" scoped>
+
 h1#title + p {
   font-weight: bold;
   font-size: 1.25em;
@@ -158,32 +156,21 @@ li {
     grid-template-columns: 1fr;
   }
 }
-.top {
-  display: flex;
-  align-items: center;
-  margin-bottom: 4em;
-  #title {
-    margin-top: 0;
-  }
-  .img {
-    width: 500px;
-    img {
-      width: 100%;
-    }
-  }
-  .copy {
-    padding-right: 2em;
-  }
-}
-@media screen and (max-width: 1000px) {
-  .top {
-    display: flex;
-    flex-direction: column-reverse;
-    margin-bottom: 0;
-    .copy {
-      padding: 0;
-    }
-    .img {
+#sponsor-page {
+  &::after {
+    background-image: url('~assets/img/jamie/sponsor.svg');
+    background-position: right;
+    background-size: 25vw;
+    background-repeat: no-repeat;
+    content: "";
+    opacity: 0.15;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+    @media screen and (max-width: 1000px) {
       display: none;
     }
   }

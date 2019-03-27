@@ -74,6 +74,10 @@ export default {
             q: 'Does a parent/guardian need to stay?',
             a: 'No, and we would prefer they don\'t unless previously agreed. All participants will need parental permission to attend before their space at a Hub is confirmed. Emergency details will be shared with the Underland team and your Regional Hub Leader.'
           },
+          {
+            q: 'Will there be a space for religious observance?',
+            a: 'We will have a quiet reflection room throughout which can be utilised for this purpose.'
+          },
           { 
             q: 'Who is behind the BASH Festival of Code?',
             a: 'Underland are a London-based team specialising in software development, teaching people technical skills, and running specialist events. Our values are talk straight, get the job done, and don’t forget to have fun on the way.'
