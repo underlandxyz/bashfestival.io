@@ -21,6 +21,8 @@
       </ul>
       <p>We're still assessing the exact requirements for volunteers at the weekend, but we <b>will</b> need help. If you're able to set aside either or both of the days of BASH Festival of Code (or the overnight) please let us know by filling in the form below...</p>
       <iframe class="airtable-embed" src="https://airtable.com/embed/shrqcjsFIcKdH2ecu?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      <h2>Questions?</h2>
+      <n-link to='/contact'>Please get in touch with our Volunteer & Mentor Coordinator</n-link>
     </div>
   </div>
 </template>

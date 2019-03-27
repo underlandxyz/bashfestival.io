@@ -18,6 +18,8 @@
       </ul>
       <p>Finally - thank you. Even being here and considering helping means a lot to us.</p>
       <iframe class="airtable-embed" src="https://airtable.com/embed/shr4SaRUAqxgLbLuF?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      <h2>Questions?</h2>
+      <n-link to='/contact'>Please get in touch with our Volunteer & Mentor Coordinator</n-link>
     </div>
   </div>
 </template>
