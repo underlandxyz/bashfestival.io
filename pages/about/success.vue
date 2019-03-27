@@ -3,40 +3,41 @@
     <SubHeaderAbout/>
     <div class='w content'>
       <h1 id="title">Success Framework</h1>
-      <p>Every good plan starts with an evaluation framework. However boring it may sound, this framework will allow us to critically and objectively understand if BASH Festival of Code has been successful (above and beyond the logistics). Our framework is broken into 6 areas:</p>
+      <p>Every good plan starts with an evaluation framework. This allows us to critically and objectively understand how BASH Festival of Code has been successful (above and beyond the logistics). Our framework is broken into 6 areas:</p>
       <h2>Attendance</h2>
       <ul>
-        <li>Minimum turnout: 300. Desired turnout: 350.</li>
-        <li>Aiming for no more than 20% no-shows between registration and the week.</li>
-        <li>Aiming for no more than 10% attrition between the week attendees and the weekend.</li>
+        <li>The festival is designed to accommodate a capacity of up to 350 participants, and we're using a 2-round placing system to best maximise occupancy of places.</li>
+        <li>This creates a meaningful contingency for circumstantial non-attendance and attrition from the week attendees to those present on the weekend.</li>
       </ul>
       <h2>Inclusivity</h2>
       <ul>
-        <li>Minimum of 25% of attendees to be non-male (female, non-binary, agender).</li>
-        <li>Minimum of 25% of attendees to be people of colour.</li>
-        <li>Minimum of 25% of attendees to be from low socioeconomic backgrounds.</li>
+        <li>While we monitor demographic data in applications the requirements for successful offers of places at the Festival have been purposely kept to skill and interest level so that no prospective attendee is discriminated upon the basis of their gender or ethnicity.</li>
+        <li>Additionally we have intentionally kept equipment requirements to a reasonable minimum, and geographic locations of hubs and the weekend venue distributed to positively include applicants from different socio-economic backgrounds.</li>
+        <li>As the primary dividing barriers we have identified in what traditionally defies inclusivity in technical fields, we will be therefore be happy with significant representation in all three areas for Year 1, with post-event analysis enabling us to further develop inclusivity mechanisms for future events.</li>
       </ul>
       <p>Of course we always want to meet or exceed 50% for all of these groups - these goals express the minumum we will be happy with in Year 1.</p>
       <h2>Aspirations</h2>
+      <p>BASH Festival of Code should demonstrably impact:</p>
       <ul>
-        <li>Does BASH Festival of Code impact future academic aspirations?</li>
-        <li>Does BASH Festival of Code impact future career aspirations?</li>
+        <li>future academic aspirations</li>
+        <li>future career aspirations</li>
       </ul>
       <h2>Skills</h2>
+      <p>Attendees should be able to measurably:</p>
       <ul>
-        <li>Do attendees achieve their personal learning goals?</li>
-        <li>Do attendees acknowledge that they have learn any skills above and beyond the ones they set as targets?</li>
+        <li>achieve their personal learning goals from participating in the Festival</li>
+        <li>acknowledge that they have learnt skills above and beyond those that they initially set as targets</li>
       </ul>
       <h2>Networking</h2>
+      <p>Attendees should be able to: </p>
       <ul>
-        <li>Do attendees meet new people at BASH Festival of Code who they intend on continuing their relationship with?</li>
-        <li>Do attendees make any meaningful connections with people in industry - either through sponsors, mentors, volunteers or weekend content facilitators?</li>
+        <li>meet new people at BASH Festival of Code who they can further explore creative partnerships and friendships with</li>
+        <li>make meaningful connections with people in industry - either through sponsors, mentors, volunteers or weekend content facilitators</li>
       </ul>
       <h2>Engagement</h2>
-      <ul>
-        <li>Do attendees engage with our challenges and the content we provide?</li>
-        <li>Do people provide positive feedback about the event?</li>
-      </ul>
+      <p>Attendees should be able to feel that their work over the festival demonstrates engagement with the challenges and content we provide, and we will specifically be seeking to explore this positive feedback in post-event analysis.</p>
+      <h2>Future Development of our Framework</h2>
+      <p>Post event analysis will be utilised as the basis for iteratively designing success criteria in successive years.</p>
     </div>
   </div>
 </template>

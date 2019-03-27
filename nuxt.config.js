@@ -35,7 +35,9 @@ module.exports = {
   ],
 
   redirect: [
-    { from: '^/sponsorship', to: '/support/sponsor' }
+    { from: '^/sponsorship', to: '/support/sponsor' },
+    { from: '^/hub-info', to: '/week/hubs' },
+    { from: '^/hubs', to: '/week/hubs' }
   ],
 
   generate: {
@@ -50,6 +52,7 @@ module.exports = {
       '/week/hubs/birmingham',
       '/week/hubs/edinburgh',
       '/week/hubs/nottingham',
+      '/week/hubs/newcastle',
     ]
   },
 
