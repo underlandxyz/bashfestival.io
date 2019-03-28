@@ -23,7 +23,7 @@
           :hub='hub' />
       </div>
       <div class='more'>
-        <p>We're also working to confirm a few extra Regional Hubs while the application process is open. though we won't confirm them until they're certain. Please register for updates if you are interested in potential Regional Hubs in Nottingham, Manchester, Ipswich, Peterborough, Essex or Cardiff. No promises but we'll try!</p>
+        <p>We're also working to confirm a few extra Regional Hubs while the application process is open, though we won't confirm them until they're certain. Please register for updates if you are interested in potential Regional Hubs in Nottingham, Manchester, Ipswich, Peterborough, Essex or Cardiff. No promises, but we'll try!</p>
       </div>
     </div>
   </div>
