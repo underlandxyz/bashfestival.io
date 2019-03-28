@@ -4,6 +4,7 @@
       <small>{{hub.city}}</small>
       <h2>{{hub.name}}</h2>
       <p class='address'>{{hub.address}}</p>
+      <span>See more</span>
     </div>
   </n-link>
 </template>
@@ -42,7 +43,9 @@ h2 {
 span {
   font-weight: normal;
   display: inline-block;
-  margin-left: 0.3em;
+  font-size: 0.75em;
+  text-decoration: underline;
+  margin-top: 0.75em;
 }
 p {
   font-style: italic;

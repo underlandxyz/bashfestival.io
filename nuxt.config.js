@@ -9,6 +9,9 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { property: 'og:image', content: 'https://bashfestival.io/og.png' },
+      { name: 'description', content: 'BASH Festival of Code is a free week-long coding festival for 13-17 year olds.' },
+      { name: 'og:description', content: 'BASH Festival of Code is a free week-long coding festival for 13-17 year olds.' }
     ],
     script: [
       { src: '/hotjar.js' }

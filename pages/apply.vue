@@ -17,8 +17,7 @@ export default {
 <style lang="scss" scoped>
 .soon {
   text-align: center;
-  background: var(--pink-dark);
-  color: white;
+  background: var(--light);
   padding: 1em;
   margin-top: 2em;
 }
