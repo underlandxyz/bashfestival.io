@@ -8,7 +8,7 @@
       <ul>
         <li>Our attendees have some degree of technical knowledge, but it may not be very high. We'd prefer beginner technical (or non-technical) topics.</li>
         <li>For well adopted technologies, we'd be interested in slightly more intermediate content.</li>
-        <li>If we raise enough funds, we'd be happy to cover travel expenses, but this currently isn't the case. Please assume that we won't be able to unless we cmomunicate otherwise. This means that talks or workshops might be better for existing weekend volunteers.</li>
+        <li>If we raise enough funds, we'd be happy to cover travel expenses, but this currently isn't the case. Please assume that we won't be able to unless we communicate otherwise. This means that talks or workshops might be better for existing weekend volunteers.</li>
       </ul>
       <iframe class="airtable-embed" src="https://airtable.com/embed/shrAzfbYZvWqf8pNn?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
       <h2>Questions?</h2>
