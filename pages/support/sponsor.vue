@@ -32,7 +32,7 @@
           <div class="locations">
             <h3>Locations 📍</h3>
             <div class="location" v-for='hub in hubs' :key='hub.name'>
-              ⭐ {{hub.name}}
+              ⭐ {{hub.city.charAt(0).toUpperCase() + hub.city.slice(1)}}
             </div>
           </div>
         </div>

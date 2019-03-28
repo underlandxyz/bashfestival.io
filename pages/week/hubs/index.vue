@@ -4,7 +4,6 @@
     <div class='w'>
       <h1 id="title">Regional Hubs</h1>
       <p>All regional hubs are generously volunteer-run and each will be able to host 15-20 young people during the week for the 2019 event. If you have questions please check the <n-link to='/about/faq'>FAQ</n-link> first and then direct any questions to the <n-link to='/contact'>BASH Festival of Code team</n-link>.</p>
-      <!-- <iframe src="https://snazzymaps.com/embed/122069" width="100%" height="400px" style="border:none;"></iframe> -->
       <GmapMap
         :zoom="5.5"
         :center='{ lat: 53.486244, lng: -1.890401 }'
@@ -22,6 +21,9 @@
           v-for='hub in hubs'
           :key='hub.name'
           :hub='hub' />
+      </div>
+      <div class='more'>
+        <p>We're also working to confirm a few extra Regional Hubs while the application process is open. though we won't confirm them until they're certain. Please register for updates if you are interested in potential Regional Hubs in Nottingham, Manchester, Ipswich, Peterborough, Essex or Cardiff. No promises but we'll try!</p>
       </div>
     </div>
   </div>
@@ -51,10 +53,14 @@ export default {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 2em;
-  margin-bottom: 4em;
+  margin-bottom: 2em;
   @media screen and (max-width: 1000px) {
     grid-template-columns: 1fr;
   }
+}
+.more {
+  margin-bottom: 3em;
+  margin-top: 3em;
 }
 .map {
   margin: 2em 0;

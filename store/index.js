@@ -32,16 +32,16 @@ export const state = () => ({
         lng: -2.978570
       }
     },
-    {
-      color: '#B9C0C9', 
-      city: 'manchester',
-      name: 'The Shed',
-      address: 'Manchester Metropolitan University, Chester St, M1 5GD',
-      loc: {
-        lat: 53.471750,
-        lng: -2.241810
-      }
-    },
+    // {
+    //   color: '#B9C0C9', 
+    //   city: 'manchester',
+    //   name: 'The Shed',
+    //   address: 'Manchester Metropolitan University, Chester St, M1 5GD',
+    //   loc: {
+    //     lat: 53.471750,
+    //     lng: -2.241810
+    //   }
+    // },
     {
       color: '#FBEBA5', 
       city: 'plymouth',
@@ -92,16 +92,16 @@ export const state = () => ({
         lng: -2.943250
       }
     },
-    {
-      color: '#B5EFCE',
-      city: 'nottingham',
-      name: 'University of Nottingham',
-      address: 'Jubilee Campus, Wollaton Road, NG8 1BB',
-      loc: {
-        lat: 52.955378,
-        lng: -1.189286
-      }
-    },
+    // {
+    //   color: '#B5EFCE',
+    //   city: 'nottingham',
+    //   name: 'University of Nottingham',
+    //   address: 'Jubilee Campus, Wollaton Road, NG8 1BB',
+    //   loc: {
+    //     lat: 52.955378,
+    //     lng: -1.189286
+    //   }
+    // },
     {
       color: '#AED9E2',
       city: 'Newcastle',

@@ -9,6 +9,7 @@
         <p><i class="fas fa-map-pin" :style="{color: hub.color}"></i>{{hub.address}}</p>
         <p v-if='hub.notes'>{{hub.notes}}</p>
         <p>Closer to the event we'll provide more details about your Hub Leader. For now, if you have questions please <n-link to='/contact'>contact the BASH team</n-link>.</p>
+        <n-link to='/apply' class='apply' :style="{ color: hub.text, background: hub.color }">Apply to attend this hub</n-link>
       </div>
       <GmapMap
         :center="hub.loc"
@@ -74,5 +75,13 @@ h1#title {
   i {
     margin-right: 1em;
   }
+}
+.apply {
+  display: block;
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 </style>
