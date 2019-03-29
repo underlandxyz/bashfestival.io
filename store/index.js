@@ -25,11 +25,11 @@ export const state = () => ({
     {
       color: '#DBBDE5', 
       city: 'liverpool',
-      name: 'The Studio',
-      address: '41 Greenland St, L1 0BS',
+      name: 'Barclays Wavertree',
+      address: 'Wavertree Technology Park, L7 9PQ',
       loc: {
-        lat: 53.394970,
-        lng: -2.978570
+        lat: 53.405192,
+        lng: -2.922825
       }
     },
     // {
@@ -85,7 +85,7 @@ export const state = () => ({
     {
       color: '#DBE2E2',
       city: 'edinburgh',
-      name: 'Barclays Eagle Labs',
+      name: 'Barclays Eagle Labs - Codebase',
       address: 'Codebase, 38 Castle Terrace, EH3 9DZ',
       loc: {
         lat: 55.969650,
