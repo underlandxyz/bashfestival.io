@@ -115,6 +115,7 @@ export default {
     text-decoration: none;
     display: block;
     margin-top: 1em;
+    font-size: 0.75em;
   }
 }
 </style>
