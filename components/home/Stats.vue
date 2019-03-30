@@ -9,7 +9,7 @@
         <img src="@/assets/img/logo-white.svg" alt="~ BASH Logo">
       </div>
       <div class="stat">
-        <h2>10+</h2>
+        <h2>{{hubsNumber}}</h2>
         <span>Regional Hubs</span>
       </div>
       <div class="img">
@@ -17,11 +17,21 @@
       </div>
       <div class="stat">
         <h2>350</h2>
-        <span>Young People</span>
+        <span>Attendees</span>
       </div>
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  computed: {
+    hubsNumber() {
+      return this.$store.state.hubs.length
+    }
+  }
+}
+</script>
 
 <style lang="scss" scoped>
 #stats {
