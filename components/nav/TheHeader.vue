@@ -2,7 +2,7 @@
   <div>
     <header>
       <div id="notice-line">
-        <span class="dates">August 5-11, 2019. Across the UK, with a finale in Birmingham.</span>
+        <span class="dates">August 5-11, 2019. {{hubNumber}} regional locations, with a finale in Birmingham.</span>
         <div class="meta">
           <n-link to='/policies/conduct'>Code of Conduct</n-link>
           <n-link to='/contact'>Contact Us</n-link>
@@ -19,7 +19,7 @@
             <n-link v-for='link in nav' :key='link.path' :to='link.path' :class='link.class'>{{link.text}}</n-link>
           </div>
         </nav>
-        <n-link to='/apply' class="cta btn apply">Applications open March 31</n-link>
+        <n-link to='/apply' class="cta btn apply">Apply now</n-link>
         <div id="mob-menu" @click='menuToggle'>Menu <i class="fa fa-bars"></i></div>
       </div>
     </header>
@@ -49,6 +49,11 @@ export default {
     menuToggle() {
       this.showNav = !this.showNav
     },
+  },
+  computed: {
+    hubNumber() {
+      return this.$store.state.hubs.length;
+    }
   },
   watch:{
     $route (to, from){
