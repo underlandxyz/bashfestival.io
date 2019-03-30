@@ -7,6 +7,7 @@
       <li>If you're a Hub Leader, first reach out to us on Slack (you'll be invited after being confirmed). For email, please get in touch with Sanzi Chiorescu, our Regional Hub Coordinator (<a href='mailto:sanzi@bashfestival.io'>sanzi@bashfestival.io</a>)</li>
       <li>If you are a week mentor or a weekend volunteer, first reach out to us on Slack (you'll be invited after being confirmed). For email, please get in touch with David Durant, our Volunteer &amp; Mentor Coordinator (<a href='mailto:david@bashfestival.io'>david@bashfestival.io</a>)</li>
       <li>If you have questions as a (potential) attendee or parent/guardian, please email (<a href='mailto:info@bashfestival.io'>info@bashfestival.io</a>)</li>
+      <li>If you are, or want to, talk at the weekend you can find <n-link to='/support/talk'>information here</n-link>. If you have questions, please contact An-Ni Chen, our Weekend Content Coordinator (<a href='mailto:anni@bashfestival.io'>anni@bashfestival.io</a>).</li>
       <li>For all other enquiries, including sponsorship &amp; press please email Kevin, our Co-Lead Organiser (<a href="mailto:kevin@bashfestival.io">kevin@bashfestival.io</a>)</li>
     </ul>
     <h2>Social</h2>
