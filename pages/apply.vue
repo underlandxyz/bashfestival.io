@@ -1,8 +1,6 @@
 <template>
   <div class='w content'>
-    <h1 id="title">Apply to BASH Festival of Code 2019</h1>
-    <p>Applications close 15 May at 11:59pm GMT. We'll inform all applicants by 20 May and require you to accept your place before 3 June. <n-link to='/about/application'>Learn more about the application process here.</n-link></p>
-    <div class="soon">Applications will open on March 31 at 12pm.</div>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXJ2a3sm6jCXWGB1x2jL859ftOzv_b4pFNmPzUul23uf8r2g/viewform?embedded=true" height="3272" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
   </div>
 </template>
 
@@ -15,10 +13,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.soon {
-  text-align: center;
-  background: var(--light);
-  padding: 1em;
+iframe {
+  width: 100%;
   margin-top: 2em;
 }
 </style>
