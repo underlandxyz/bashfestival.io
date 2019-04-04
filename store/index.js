@@ -111,7 +111,17 @@ export const state = () => ({
         lat: 55.002800,
         lng: -1.581762
       }
-    }
+    },
+    {
+      color: '#E7E0F9', 
+      city: 'essex',
+      name: 'Super Techs',
+      address: 'Super Thinker Centre, 18 High Street, Romford, RM1 1HR',
+      loc: {
+        lat: 51.577474,
+        lng: 0.183191
+      }
+    },
   ]
 });
 

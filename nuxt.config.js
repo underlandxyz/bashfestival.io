@@ -56,6 +56,7 @@ module.exports = {
       '/week/hubs/edinburgh',
       '/week/hubs/nottingham',
       '/week/hubs/newcastle',
+      '/week/hubs/essex',
     ]
   },
 
