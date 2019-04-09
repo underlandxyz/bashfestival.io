@@ -31,9 +31,9 @@
           </ul>
           <div class="locations">
             <h3>Locations 📍</h3>
-            <div class="location" v-for='hub in hubs' :key='hub.name'>
-              ⭐ {{hub.city.charAt(0).toUpperCase() + hub.city.slice(1)}}
-            </div>
+            <n-link :to='hub.path' class="location" v-for='hub in hubs' :key='hub.name'>
+              ⭐ <span>{{hub.city.charAt(0).toUpperCase() + hub.city.slice(1)}}</span>
+            </n-link>
           </div>
         </div>
       </div>
@@ -148,6 +148,13 @@ li {
 .contact {
   margin-bottom: 4em;
 }
+.location {
+  display: block;
+  text-decoration: none;
+  span {
+    text-decoration: underline;
+  }
+}
 @media screen and (max-width: 1000px) {
   .intro, 
   .summary .split,
@@ -183,7 +190,12 @@ import SubHeaderSupport from '@/components/nav/subnavs/SubHeaderSupport'
 export default {
   computed: {
     hubs() {
-      return this.$store.state.hubs
+      return this.$store.state.hubs.map(hub => {
+        return {
+          ...hub,
+          path: '/week/hubs/' + hub.city
+        }
+      })
     }
   },
   components: { SubHeaderSupport },
