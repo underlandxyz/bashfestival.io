@@ -51,8 +51,8 @@
   }
   .bottom {
     display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 3em;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 2em;
   }
   @media screen and (max-width: 700px) {
     .top, .bottom {
