@@ -7,10 +7,10 @@
       <h2>Images & Printables</h2>
       <ul>
         <li><a href="/Poster.pdf">Download our poster to put up in schools and community centres.</a></li>
-        <li><a href="/Poster-LowInk.pdf">A low-ink version of our poster, which takes a way a lot of the background colouring to save your printer.</a></li>
+        <li><a href="/Poster-LowInk.pdf">A low-ink version of our poster, which takes away a lot of the background colouring to save your printer.</a></li>
         <li><a href="/og.png">A rectangle image for you to share on Facebook or Twitter.</a> If you tweet, make sure to use #BASHFestival and tag us @BASHFestival.</li>
       </ul>
-      <h2>Blurb</h2>
+      <h2>Summary</h2>
       <p>"BASH Festival of Code is a free week-long coding festival for 13-17 year olds across the UK. We aim to provide an environment and community for technical young people to further build their skills and networks."</p>
       <h2>Sample Tweets</h2>
       <p>For attendee recruitment</p>
