@@ -103,6 +103,16 @@ export const state = () => ({
       }
     },
     {
+      color: '#fff9c2',
+      city: 'peterborough',
+      name: 'BGL Group',
+      address: 'Pegasus House, Bakewell Road, PE2 6YS',
+      loc: {
+        lat: 52.589519,
+        lng: -0.286328
+      }
+    },
+    {
       color: '#B5EFCE',
       city: 'nottingham',
       name: 'University of Nottingham',
