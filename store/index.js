@@ -84,7 +84,7 @@ export const state = () => ({
     },
     {
       color: '#AED9E2',
-      city: 'Newcastle',
+      city: 'newcastle',
       name: 'HMRC Newcastle',
       address: 'Building 5, Benton Park View, Benton, NE98 1ZZ',
       loc: {
