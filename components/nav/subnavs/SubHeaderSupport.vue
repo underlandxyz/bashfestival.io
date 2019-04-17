@@ -16,7 +16,8 @@ export default {
         { text: 'Mentor', path: '/support/mentor' },
         { text: 'Weekend Volunteer', path: '/support/volunteer' },
         { text: 'Sponsor', path: '/support/sponsor' },
-        { text: 'Talk', path: '/support/talk' },
+        { text: 'Speak', path: '/support/talk' },
+        { text: 'Share', path: '/support/share' },
       ]
     }
   },

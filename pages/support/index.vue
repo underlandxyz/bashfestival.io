@@ -21,6 +21,9 @@
       <n-link to='/support/talk' class="talk">
         <p>We're also looking for some speakers at the weekend event. Click here to find out more information.</p>
       </n-link>
+      <n-link to='/support/share' class='talk share'>
+        <p>Support BASH Festival of Code by spreading the word!</p>
+      </n-link>
     </div>
   </div>
 </template>
@@ -80,5 +83,9 @@
   display: block;
   line-height: 1;
   margin-bottom: 2em;
+}
+.talk.share {
+  background: #eee;
+  margin-top: -1em;
 }
 </style>
