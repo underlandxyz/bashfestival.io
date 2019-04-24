@@ -122,16 +122,16 @@ export const state = () => ({
         lng: -1.189286
       }
     },
-    // {
-    //   color: '#B9C0C9', 
-    //   city: 'manchester',
-    //   name: 'The Shed',
-    //   address: 'Manchester Metropolitan University, Chester St, M1 5GD',
-    //   loc: {
-    //     lat: 53.471750,
-    //     lng: -2.241810
-    //   }
-    // },
+    {
+      color: '#ffc4d4', 
+      city: 'manchester',
+      name: 'Manchester Science Park',
+      address: 'The Bright Building, Pencroft Way, M15 6JJ',
+      loc: {
+        lat: 53.463089,
+        lng: -2.238424
+      }
+    },
   ]
 });
 
