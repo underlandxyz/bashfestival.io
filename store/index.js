@@ -45,11 +45,11 @@ export const state = () => ({
     {
       color: '#F6D3AF', 
       city: 'southampton',
-      name: 'TechAgeKids',
-      address: 'Exact location TBC',
+      name: 'Soton Network Eagle',
+      address: 'Network Eagle Lab, Portland Terrace, SO14 7SJ',
       loc: {
-        lat: 50.909698,
-        lng: -1.404351
+        lat: 50.904980,
+        lng: -1.406250
       }
     },
     {
