@@ -3,6 +3,7 @@
     <SubHeaderAbout />
     <div class='w content'>
       <h1 id="title">About the Application Process</h1>
+      <n-link to='/tickets' class="info"><i class="fas fa-info-circle"></i>This page is now out of date as we have moved to a first-come-first-served ticketing system in response to community feedback. Please click here to get a ticket.</n-link>
       <p>We have decided to use an application-based ticketing system for BASH Festival of Code 2019. This is for a number of reasons:</p>
       <ul>
         <li>We want to provide a big and fair application window - making sure everyone who wants to gets a chance to apply, instead of those who happen to be quickest at getting tickets.</li>
@@ -33,3 +34,17 @@ export default {
   components: { SubHeaderAbout }
 }
 </script>
+
+<style lang='scss' scoped>
+.info {
+  background: var(--light);
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 1em;
+  margin-bottom: 2em;
+  i {
+    margin-right: 0.5em;
+  }
+}
+</style>

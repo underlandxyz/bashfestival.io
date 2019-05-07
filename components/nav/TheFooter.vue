@@ -5,7 +5,6 @@
         <h2>About</h2>
         <div class="items">
           <n-link to='/about'>About BASH Festival of Code</n-link>
-          <n-link to='/about/application'>Application process</n-link>
           <n-link to='/about/success'>Success framework</n-link>
           <n-link to='/about/team'>Team members</n-link>
           <n-link to='/about/faq'>FAQ</n-link>

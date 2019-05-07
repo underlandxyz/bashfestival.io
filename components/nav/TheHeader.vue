@@ -19,7 +19,7 @@
             <n-link v-for='link in nav' :key='link.path' :to='link.path' :class='link.class'>{{link.text}}</n-link>
           </div>
         </nav>
-        <n-link to='/apply' class="cta btn apply">Apply now</n-link>
+        <n-link to='/tickets' class="cta btn apply">Get Free Tickets</n-link>
         <div id="mob-menu" @click='menuToggle'>Menu <i class="fa fa-bars"></i></div>
       </div>
     </header>

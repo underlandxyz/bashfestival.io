@@ -25,7 +25,7 @@
         </li>
         <li>
           <b>Permission from a parent of guardian</b>
-          <p>Any child wishing to take part in the festival must have their attendance explicitly supported by a parent or guardian, and said parent or guardian will be involved in all pertinent application and attendance correspondence.</p>
+          <p>Any child wishing to take part in the festival must have their attendance explicitly supported by a parent or guardian, and said parent or guardian will be involved in all pertinent ticketing and attendance correspondence.</p>
         </li>
         <li>
           <b>Training</b>
@@ -49,7 +49,7 @@
         </li>
         <li>
           <b>Medical & Accessilibty Requirements</b>
-          <p>Each young person's medical and accessibility requirements, and parent/guardian contact information, will be collated at the application stage and made available only to Hub Leaders and core BASH Festival team members. More details about your data are in our <n-link to='/policies/privacy'>Privacy Policy</n-link>.</p>
+          <p>Each young person's medical and accessibility requirements, and parent/guardian contact information, will be collated at the ticketing stage and made available only to Hub Leaders and core BASH Festival team members. More details about your data are in our <n-link to='/policies/privacy'>Privacy Policy</n-link>.</p>
         </li>
         <li>
           <b>Attendance of Parents and Guardians</b>

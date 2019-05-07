@@ -3,7 +3,7 @@
     <SubHeaderSupport />
     <div class='w content'>
       <h1 id="title">Share BASH Festival of Code</h1>
-      <p>We need your help to share BASH Festival of Code and help us get more awesome applications from young people, and support from <n-link to='/support/mentor'>Mentors</n-link> & <n-link to='/support/volunteer'>Volunteers</n-link>.</p>
+      <p>We need your help to share BASH Festival of Code and help us get the word out to more young people, and support from <n-link to='/support/mentor'>Mentors</n-link> & <n-link to='/support/volunteer'>Volunteers</n-link>.</p>
       <h2>Images & Printables</h2>
       <ul>
         <li><a href="/Poster.pdf">Download our poster to put up in schools and community centres.</a></li>
@@ -27,7 +27,7 @@
       <article>
         <p>I thought some of your students might be interested in <a href='https://bashfestival.io'>BASH Festival of Code</a>. It's a free week-long coding festival for 13-17 year olds across the UK in August. On Monday-Friday young people are in one of {{hubNumber}} regional hubs around the UK and build projects together using their technical skills and supported by mentors.</p>
         <p>At the weekend they travel to Birmingham for a big finale where they'll present their projects, have a free multi-stream conference, and get to talk with industry partners about their work and careers. There's an Access Scheme to help with the cost of travel to the weekend.</p>
-        <p>If you have any particularly engaged students who have some coding ability, please do share this with them and their parents. Applications are open until mid-May, so encourage them to sign up as this is a great opportunity!</p>
+        <p>If you have any particularly engaged students who have some coding ability, please do share this with them and their parents. Tickers are free, but first come first served, so encourage them to sign up as this is a great opportunity!</p>
         <p>Let me know if you have any questions!</p>
       </article>
     </div>
