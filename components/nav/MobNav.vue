@@ -4,7 +4,7 @@
       <li v-for='item in data' :key='item.path'>
         <n-link :to='item.path'>{{item.text}}</n-link>
       </li>
-      <li><n-link to='/apply' class='cta'>Apply now</n-link></li>
+      <li><n-link to='/tickets' class='cta'>Get free tickets</n-link></li>
     </ul>
   </div>
 </template>
