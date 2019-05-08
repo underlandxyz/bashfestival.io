@@ -9,7 +9,7 @@
         <p><i class="fas fa-map-pin" :style="{color: hub.color}"></i>{{hub.address}}</p>
         <p v-if='hub.notes'>{{hub.notes}}</p>
         <p>Closer to the event we'll provide more details about your Hub Leader. For now, if you have questions please <n-link to='/contact'>contact the BASH team</n-link>.</p>
-        <n-link to='/apply' class='apply' :style="{ color: hub.text, background: hub.color }">Apply to attend this hub</n-link>
+        <n-link to='/tickets' class='apply' :style="{ color: hub.text, background: hub.color }">Get tickets for this hub</n-link>
       </div>
       <GmapMap
         :center="hub.loc"
