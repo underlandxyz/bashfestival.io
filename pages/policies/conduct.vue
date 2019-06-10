@@ -37,18 +37,23 @@
       <h3>During the week</h3>
       <p>During the week, you can report code of conduct violations to your Hub Leader. If you feel unable to approach them, or they are the reason for your report, please contact the BASH team by:</p>
       <ul>
-        <li>Calling or texting our team on +44 7449 549 868 (this will call Kevin Lewis and Wilson Bolas Tolentino da Silva - our lead organisers).</li>
+        <li>Calling or texting our team on +44 7449 549 868 (this will call Kevin Lewis and Wilson Bolas Tolentino da Silva - our lead organisers)</li>
         <li>Emailing our team at <a href="mailto:incidents@underland.xyz">incidents@underland.xyz</a></li>
-        <li>Sending us a Direct Message on <a href='https://twitter.com/bashfestival'>Twitter</a>.</li>
+        <li>Sending us a Direct Message on <a href='https://twitter.com/bashfestival'>Twitter</a></li>
+        <li>Using the anonymous reporting form below</li>
       </ul>
       <h3>During the weekend</h3>
       <p>Any of the above methods will work, but you can additionally approach any volunteer, who will be clearly marked.</p>
       <h2>Changes to policy</h2>
       <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
+      <div class="form">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrj780oQ2ttOJYSH?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="655" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      </div>
       <div class="log">
         <h2>Revisions</h2>
         <ul>
           <li>20 February 2019: Initial version published, adapted from the core Underland Code of Conduct.</li>
+          <li>10 June 2019: Provided anonymous form as a way to report and incident</li>
         </ul>
       </div>
     </div>
@@ -64,3 +69,9 @@ export default {
   },
 }
 </script>
+
+<style lang="scss" scoped>
+iframe {
+  margin-top: 2em;
+}
+</style>
