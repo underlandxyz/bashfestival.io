@@ -47,10 +47,11 @@
       </div>
     </div>
     <div id="underland">
-      <a href="https://underland.xyz">
-        <img src="@/assets/underland-logo.svg" alt="Underland Logo">
+      <a href="https://underland.events">
+        <img src="@/assets/underland-logo.svg" alt="Underland Events Logo">
       </a>
-      <n-link to='/about/colophon' class='c'>Colophon</n-link>
+      <p>Organised by Underland Events - the developer events company.</p>
+      <p><n-link to='/about/colophon' class='c'>Colophon</n-link></p>
     </div>
   </footer>
 </template>
@@ -106,9 +107,9 @@ export default {
   img {
     height: 3em;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 1rem;
   }
-  .c {
+  p {
     color: white;
     text-align: center;
     text-decoration: none;
