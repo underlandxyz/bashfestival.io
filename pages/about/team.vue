@@ -105,6 +105,13 @@ export default {
           twitter: 'bb_loft',
           pic: '/team/beth.jpg',
           color: '#B5EFCE',
+        },
+        {
+          name: 'Lewis Westbury',
+          role: 'Community Outreach Support',
+          email: 'lewis@bashfestival.io',
+          pic: '/team/lewis.jpg',
+          color: '#99D5FC'
         }
       ]
     }
