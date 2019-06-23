@@ -1,7 +1,6 @@
 export const state = () => ({
   title: 'BASH Festival of Code',
-  hubs: [
-    {
+  hubs: [{
       color: '#ACE9DD',
       city: 'bristol',
       name: 'Aerospace Bristol',
@@ -23,7 +22,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#DBBDE5', 
+      color: '#DBBDE5',
       city: 'liverpool',
       name: 'Barclays Wavertree',
       address: 'Wavertree Technology Park, L7 9PQ',
@@ -33,7 +32,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#FBEBA5', 
+      color: '#FBEBA5',
       city: 'plymouth',
       name: 'Digital Plymouth',
       address: 'THINQTANQ, Fairbairn House, Higher Lane, PL1 2AN',
@@ -43,7 +42,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#F6D3AF', 
+      color: '#F6D3AF',
       city: 'southampton',
       name: 'Soton Network Eagle',
       address: 'Network Eagle Lab, Portland Terrace, SO14 7SJ',
@@ -63,7 +62,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#F3DDE3', 
+      color: '#F3DDE3',
       city: 'birmingham',
       name: 'Rebel Makers Brum',
       address: 'Birmingham City Center - Exact location TBC',
@@ -93,7 +92,7 @@ export const state = () => ({
       }
     },
     {
-      color: '#E7E0F9', 
+      color: '#E7E0F9',
       city: 'essex',
       name: 'Super Techs',
       address: 'Super Thinker Centre, 18 High Street, Romford, RM1 1HR',
@@ -123,10 +122,10 @@ export const state = () => ({
       }
     },
     {
-      color: '#ffc4d4', 
+      color: '#ffc4d4',
       city: 'manchester',
       name: 'Manchester Science Park',
-      address: 'The Bright Building, Pencroft Way, M15 6JJ',
+      address: 'MSP Tech Incubator, Manchester Technology Centre, Oxford Road, M1 7ED',
       loc: {
         lat: 53.463089,
         lng: -2.238424
@@ -144,5 +143,5 @@ export const actions = {
 }
 
 export const getters = {
-  
+
 }
