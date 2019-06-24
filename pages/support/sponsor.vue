@@ -68,7 +68,7 @@
             </ul>
           </div>
           <div class='option'>
-            <h3>BASH Supporter - £4,000</h3>
+            <h3>BASH Champion - £4,000</h3>
             <ul>
               <li>Be a BASH Supporter</li>
               <li>Space in networking area</li>
