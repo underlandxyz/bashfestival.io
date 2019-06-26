@@ -82,16 +82,6 @@ export const state = () => ({
       }
     },
     {
-      color: '#AED9E2',
-      city: 'newcastle',
-      name: 'HMRC Newcastle',
-      address: 'Building 5, Benton Park View, Benton, NE98 1ZZ',
-      loc: {
-        lat: 55.002800,
-        lng: -1.581762
-      }
-    },
-    {
       color: '#E7E0F9',
       city: 'essex',
       name: 'Super Techs',
