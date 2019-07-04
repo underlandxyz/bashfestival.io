@@ -3,7 +3,7 @@
     <SubHeaderPolicies />
     <div class='w content'>
       <h1 id="title">Safeguarding</h1>
-      <p>Welcome to Underland Ltd ('Underland' or 'BASH Festival of Code Team') is committed to protecting the health, well-being and human rights of any and all participants of the BASH Festival of Code. This policy outlines the measures that we employ to ensure:</p>
+      <p>Underland is committed to protecting the health, well-being and human rights of any and all participants of the BASH Festival of Code. This policy outlines the measures that we employ to ensure:</p>
       <ul>
         <li>that nobody is subjected to abuse, harm or neglect</li>
         <li>that	everybody is able to experience the festival within a safe and supportive environment</li>
