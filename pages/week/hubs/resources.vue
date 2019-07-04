@@ -19,7 +19,7 @@ import SubHeaderWeek from '@/components/nav/subnavs/SubHeaderWeek'
 export default {
   components: { SubHeaderWeek },
   head () {
-    return { title: `Training - ${this.$store.state.title}` }
+    return { title: `Hub Training - ${this.$store.state.title}` }
   },
 }
 </script>
