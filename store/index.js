@@ -82,16 +82,6 @@ export const state = () => ({
       }
     },
     {
-      color: '#E7E0F9',
-      city: 'essex',
-      name: 'Super Techs',
-      address: 'Super Thinker Centre, 18 High Street, Romford, RM1 1HR',
-      loc: {
-        lat: 51.577474,
-        lng: 0.183191
-      }
-    },
-    {
       color: '#fff9c2',
       city: 'peterborough',
       name: 'BGL Group',
