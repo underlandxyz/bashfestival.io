@@ -1,1 +1,35 @@
-<svg id="Duotone" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 112"><defs><style>.cls-1{fill:#F0F2FF;}.cls-2,.cls-5{fill:#cce1ff;}.cls-3{fill:#fff;}.cls-4{fill:none;}.cls-4,.cls-5{stroke:#4550e5;stroke-linecap:round;stroke-linejoin:round;}.cls-6{fill:#4550e5;}</style></defs><title>07- gameboy-color</title><g id="Icons"><g id="Background"><g id="New_Symbol_68-4" data-name="New Symbol 68"><circle class="cls-1" cx="50.5" cy="56.5" r="40"/></g></g><g id="Scene"><ellipse class="cls-2" cx="50.5" cy="87.5" rx="12" ry="1.5"/><path class="cls-3" d="M68,72a8,8,0,0,1-8,8H36a3,3,0,0,1-3-3V34a3,3,0,0,1,3-3H65a3,3,0,0,1,3,3Z"/><path class="cls-4" d="M68,72a8,8,0,0,1-8,8H36a3,3,0,0,1-3-3V34a3,3,0,0,1,3-3H65a3,3,0,0,1,3,3Z"/><path class="cls-5" d="M37,35H64a1,1,0,0,1,1,1V54a4,4,0,0,1-4,4H37a1,1,0,0,1-1-1V36A1,1,0,0,1,37,35Z"/><rect class="cls-2" x="41" y="38" width="19" height="17" rx="2" ry="2"/><path class="cls-3" d="M42.18,54.82,58.82,38.18A2,2,0,0,0,58,38H43a2,2,0,0,0-2,2V53A2,2,0,0,0,42.18,54.82Z"/><rect class="cls-4" x="41" y="38" width="19" height="17" rx="2" ry="2"/><path class="cls-6" d="M38.5,42.5a1,1,0,1,0,1,1,1,1,0,0,0-1-1Z"/><path class="cls-5" d="M45,67a1,1,0,0,0-1-1H42V64a1,1,0,0,0-2,0v2H38a1,1,0,0,0,0,2h2v2a1,1,0,0,0,2,0V68h2A1,1,0,0,0,45,67Z"/><circle class="cls-2" cx="54.5" cy="68.5" r="2.5"/><circle class="cls-4" cx="54.5" cy="68.5" r="2.5"/><line class="cls-4" x1="59" y1="75" x2="61.5" y2="77.5"/><line class="cls-4" x1="61" y1="73" x2="63.5" y2="75.5"/><line class="cls-4" x1="63" y1="71" x2="65.5" y2="73.5"/><line class="cls-4" x1="44" y1="74" x2="47" y2="72"/><line class="cls-4" x1="48" y1="74" x2="51" y2="72"/><circle class="cls-2" cx="61.5" cy="65.5" r="2.5"/><circle class="cls-4" cx="61.5" cy="65.5" r="2.5"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>games</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="games">
+            <g id="Background" fill="#F0F2FF" fill-rule="nonzero">
+                <g id="New_Symbol_68-4">
+                    <circle id="Oval" cx="40.5" cy="40.5" r="40"></circle>
+                </g>
+            </g>
+            <g id="Scene" transform="translate(23.000000, 15.000000)">
+                <ellipse id="Oval" fill="#CCE1FF" fill-rule="nonzero" cx="17.5" cy="56.5" rx="12" ry="1.5"></ellipse>
+                <path d="M35,41 C35,45.418278 31.418278,49 27,49 L3,49 C1.34314575,49 0,47.6568542 0,46 L0,3 C0,1.34314575 1.34314575,-3.55271368e-15 3,-3.55271368e-15 L32,-3.55271368e-15 C33.6568542,-3.55271368e-15 35,1.34314575 35,3 L35,41 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M35,41 C35,45.418278 31.418278,49 27,49 L3,49 C1.34314575,49 0,47.6568542 0,46 L0,3 C0,1.34314575 1.34314575,-3.55271368e-15 3,-3.55271368e-15 L32,-3.55271368e-15 C33.6568542,-3.55271368e-15 35,1.34314575 35,3 L35,41 Z" id="Path" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4,4 L31,4 C31.5522847,4 32,4.44771525 32,5 L32,23 C32,25.209139 30.209139,27 28,27 L4,27 C3.44771525,27 3,26.5522847 3,26 L3,5 C3,4.44771525 3.44771525,4 4,4 Z" id="Path" stroke="#4550E5" fill="#CCE1FF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle" fill="#CCE1FF" fill-rule="nonzero" x="8" y="7" width="19" height="17" rx="2"></rect>
+                <path d="M9.18,23.82 L25.82,7.18 C25.5624796,7.0626622 25.2829897,7.00131076 25,7 L10,7 C8.8954305,7 8,7.8954305 8,9 L8,22 C8.00163957,22.7857989 8.46328191,23.4978235 9.18,23.82 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round" x="8" y="7" width="19" height="17" rx="2"></rect>
+                <path d="M5.5,11.5 C4.94771525,11.5 4.5,11.9477153 4.5,12.5 C4.5,13.0522847 4.94771525,13.5 5.5,13.5 C6.05228475,13.5 6.5,13.0522847 6.5,12.5 C6.5,11.9477153 6.05228475,11.5 5.5,11.5 Z" id="Path" fill="#4550E5" fill-rule="nonzero"></path>
+                <path d="M12,36 C12,35.4477153 11.5522847,35 11,35 L9,35 L9,33 C9,32.4477153 8.55228475,32 8,32 C7.44771525,32 7,32.4477153 7,33 L7,35 L5,35 C4.44771525,35 4,35.4477153 4,36 C4,36.5522847 4.44771525,37 5,37 L7,37 L7,39 C7,39.5522847 7.44771525,40 8,40 C8.55228475,40 9,39.5522847 9,39 L9,37 L11,37 C11.5522847,37 12,36.5522847 12,36 Z" id="Path" stroke="#4550E5" fill="#CCE1FF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#CCE1FF" fill-rule="nonzero" cx="21.5" cy="37.5" r="2.5"></circle>
+                <circle id="Oval" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round" cx="21.5" cy="37.5" r="2.5"></circle>
+                <path d="M26,44 L28.5,46.5" id="Path" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M28,42 L30.5,44.5" id="Path" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30,40 L32.5,42.5" id="Path" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11,43 L14,41" id="Path" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M15,43 L18,41" id="Path" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#CCE1FF" fill-rule="nonzero" cx="28.5" cy="34.5" r="2.5"></circle>
+                <circle id="Oval" stroke="#4550E5" stroke-linecap="round" stroke-linejoin="round" cx="28.5" cy="34.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

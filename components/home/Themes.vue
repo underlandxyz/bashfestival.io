@@ -11,8 +11,8 @@
         <h2>Present data in novel ways</h2>
       </div>
       <div class="theme">
-        <img src="@/assets/img/themes/hardware.svg" alt="Icon for hardware">
-        <h2>Use hardware in a project</h2>
+        <img src="@/assets/img/themes/music.svg" alt="Icon for music">
+        <h2>Use tech to create music</h2>
       </div>
     </div>
   </div>
