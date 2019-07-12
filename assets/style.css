@@ -95,7 +95,7 @@ input, textarea, button {
   -webkit-appearance: none;
 }
 
-label, input {
+label, input, .button {
   display: block;
   width: 100%;
   font-size: 1em;
@@ -105,10 +105,11 @@ label, input {
   margin-top: 1em;
 }
 
-input[type='submit'] {
+input[type='submit'], .button {
   background: var(--pink-dark);
   color: white;
   border-color: transparent;
+  text-decoration: none;
 }
 
 input:focus {

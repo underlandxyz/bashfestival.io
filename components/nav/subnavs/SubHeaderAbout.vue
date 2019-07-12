@@ -16,6 +16,7 @@ export default {
         { text: 'Success Framework', path: '/about/success' },
         { text: 'Team', path: '/about/team' },
         { text: 'FAQ', path: '/about/faq' },
+        { text: 'Press', path: '/about/press' },
       ]
     }
   },
