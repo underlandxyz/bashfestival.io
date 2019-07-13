@@ -10,9 +10,10 @@
         <li>For well adopted technologies, we'd be interested in slightly more intermediate content.</li>
         <li>If we raise enough funds, we'd be happy to cover travel expenses, but this currently isn't the case. Please assume that we won't be able to unless we communicate otherwise. This means that talks or workshops might be better for existing weekend volunteers.</li>
       </ul>
-      <iframe class="airtable-embed" src="https://airtable.com/embed/shrSjzB3k0vc1JtMc?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-      <h2>Questions?</h2>
-      <n-link to='/contact'>Please get in touch with our Weekend Content Coordinator</n-link>
+      <!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrSjzB3k0vc1JtMc?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
+
+      <h2>We've now filled all of our slots.</h2>
+      <!-- <n-link to='/contact'>Please get in touch with our Weekend Content Coordinator</n-link> -->
     </div>
   </div>
 </template>

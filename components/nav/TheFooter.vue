@@ -7,6 +7,7 @@
           <n-link to='/about'>About BASH Festival of Code</n-link>
           <n-link to='/about/success'>Success framework</n-link>
           <n-link to='/about/team'>Team members</n-link>
+          <n-link to='/about/press'>Press release</n-link>
           <n-link to='/about/faq'>FAQ</n-link>
           <n-link to='/contact'>Contact us</n-link>
         </div>
