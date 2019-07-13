@@ -14,8 +14,6 @@ export default {
       },
       subnav: [
         { text: 'Regional Hubs', path: '/week/hubs' },
-        // { text: 'Challenges', path: '/week/challenges' },
-        // { text: 'Resources', path: '/week/resources' },
       ]
     }
   },

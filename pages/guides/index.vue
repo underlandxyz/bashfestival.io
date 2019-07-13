@@ -10,7 +10,6 @@
         <li><n-link to='/guides/challenges'>Challenges - What to work on</n-link></li>
         <li><n-link to='/guides/resources'>Technical resources - want to learn a skill? Look here.</n-link></li>
         <li><n-link to='/guide/videos'>Daily videos - shown at the start of each day</n-link></li>
-        <li><n-link to='/guide/sponsors'>Sponsors - Who they are and what they do</n-link></li>
         <li><n-link to='/guide/sleeping'>Sleeping arrangements for the weekend</n-link></li>
       </ul>
     </div>

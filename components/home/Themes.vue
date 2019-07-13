@@ -32,13 +32,15 @@ h2 {
   grid-gap: 2em;
   .theme {
     text-transform: uppercase;
+    margin-bottom: 1em;
     img {
-      height: 15em;
+      width: 50%;
       display: block;
-      margin: 0 auto 1em;
+      margin: 0 auto;
     }
     h2 {
       font-size: 0.8em;
+      margin-top: 1em;
     }
   }
   @media screen and (max-width: 1000px) {

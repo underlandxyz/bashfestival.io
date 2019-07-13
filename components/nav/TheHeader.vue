@@ -41,6 +41,7 @@ export default {
         { text: 'Weekend', path: '/weekend', class:'bold' },
         { text: 'About', path: '/about', class:'minor' },
         { text: 'Support', path: '/support', class:'minor' },
+        { text: 'Guides', path: '/guides', class:'minor' },
         { text: 'Policies', path: '/policies', class:'minor' }
       ]
     }

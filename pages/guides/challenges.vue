@@ -38,7 +38,7 @@ export default {
     Themes
   },
   head () {
-    return { title: `Sleeping - ${this.$store.state.title}` }
+    return { title: `Challenges - ${this.$store.state.title}` }
   },
 }
 </script>
