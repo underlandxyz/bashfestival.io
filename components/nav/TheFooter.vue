@@ -19,6 +19,7 @@
           <n-link to='/week/hubs'>Regional Hubs</n-link>
           <n-link to='/weekend'>Weekend Finale</n-link>
           <n-link to='/weekend/venue'>Weekend Venue</n-link>
+          <!-- <n-link to='/packing'>Packing List</n-link> -->
         </div>
       </div>
       <div class='section'>
