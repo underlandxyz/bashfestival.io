@@ -9,15 +9,13 @@ export default {
   data() {
     return {
       main: {
-        text: 'Weekend',
+        text: 'Weekend Finale',
         path: '/weekend'
       },
       subnav: [
-        // { text: 'Packing List', path: '/weekend/packing' },
         { text: 'Venue', path: '/weekend/venue' },
         { text: 'Schedule', path: '/weekend/schedule' },
         { text: 'Access Scheme', path: '/weekend/access' },
-        // { text: 'Sleeping', path: '/weekend/sleeping' },
       ]
     }
   },

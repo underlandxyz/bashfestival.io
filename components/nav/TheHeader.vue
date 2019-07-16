@@ -2,12 +2,12 @@
   <div>
     <header>
       <div id="notice-line">
-        <span class="dates">August 5-11, 2019. {{hubNumber}} regional locations, with a finale in Birmingham.</span>
+        <span class="dates">Events throughout the week of August 5th - 11th 2019</span>
         <div class="meta">
           <n-link to='/policies/conduct'>Code of Conduct</n-link>
           <n-link to='/contact'>Contact Us</n-link>
           <n-link to='/support/sponsor'>Sponsor BASH Festival of Code</n-link>
-          <a  href='https://underland.xyz'>An event by Underland</a>
+          <a  href='https://underland.events'>Presented by Underland Events</a>
         </div>
       </div>
       <div id="core">
@@ -37,8 +37,9 @@ export default {
     return {
       showNav: false,
       nav: [
-        { text: 'The Week', path: '/week', class:'bold' },
-        { text: 'Weekend', path: '/weekend', class:'bold' },
+        // { text: 'The Week', path: '/week', class:'bold' },
+        { text: 'Week Events', path: '/events', class: 'bold' },
+        { text: 'Weekend Finale', path: '/weekend', class:'bold' },
         { text: 'About', path: '/about', class:'minor' },
         { text: 'Support', path: '/support', class:'minor' },
         { text: 'Guides', path: '/guides', class:'minor' },

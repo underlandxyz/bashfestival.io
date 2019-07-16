@@ -14,7 +14,7 @@ export default {
   props: ['hub'],
   computed: {
     hubPath() {
-      return `/week/hubs/${this.hub.city}`
+      return `/events/${this.hub.city}`
     }
   }
 }
