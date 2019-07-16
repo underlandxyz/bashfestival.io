@@ -18,7 +18,6 @@
       <ul>
         <li>Schedule 1: August 5-9 2019 in the regional locations.</li>
         <li>Schedule 2: August 10-11 2019 in the central finale location.</li>
-        <li>Schedule 3: August 10-11 2019 for the duration of travel between the regional locations and the finale.</li>
       </ul>
       <h2>Schedule 1: August 5-9 2019</h2>
       <ul>
@@ -59,14 +58,11 @@
         <li>Common policy matters that will apply to all locations and workspaces used within this host venue (see measures 1-18 in schedule 10).</li>
         <li>Prior to activity at this venue, the BASH team will be conducting an advance survey to ensure compliance with this policy.</li>
       </ul>
-      <h2>Schedule 3: August 10-11 2019 (Travel)</h2>
-      <p>Prior to travel arrangements to and from Millenium Point being finalised for all Hubs, the BASH team are reviewing measures specific to each hub's needs. Further guidance and advice will be forthcoming closer to the operative time period for this schedule.</p>
-      <h2>Changes to policy</h2>
-      <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
       <div class="log">
         <h2>Revisions</h2>
         <ul>
           <li>01 July 2019: Initial version written</li>
+          <li>16 July 2019: Removed a schedule related to travel to the weekend as this is now the responsibility of attendees</li>
         </ul>
       </div>
     </div>

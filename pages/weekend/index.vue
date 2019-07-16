@@ -3,11 +3,11 @@
     <SubHeaderWeekend />
     <div class='w content'>
       <h1 id="title">Weekend Finale</h1>
-      <p>The weekend finale of BASH Festival of Code is a chance for you to showcase your projects, learn new skills through our multi-stream conference, and make like-minded friends from across the UK.</p>
-      <p>It starts with a science fair and then transitions into a conference until the evening when we will have multiple chill activities to choose from - movies, games, and more. If you have specific activities you'd like to see - <a href="https://twitter.com/BASHFestival">tweet at us</a> and we'll see what we can do.</p>
-      <p>Attendees then sleepover in the venue before a second day of conference activities, at the end of which our panel of judges will award prizes for the most innovative and creative projects.</p>
-      <p>The weekend is free to attend thanks to our event sponsors, and it's expected that all attendees from the week will also attend the weekend. If cost is a barrier to this, take a look at information around our <n-link to='/weekend/access'>Access Scheme</n-link>.</p>
-      <p>We'll share more details around the weekend closer to the event. For now you can find our <n-link to='/weekend/venue'>venue details</n-link> and <n-link to='/weekend/schedule'>weekend schedule</n-link>.</p>
+      <p>During the BASH Festival of Code finale weekend we will have talks & workshops, a hackathon where attendees can build projects around our themes of gaming, data and music, and make new friends from around the country.</p>
+      <p>The finale runs two days with an overnight portion, free food and chill activities in the evening such as boardgaming and films.</p>
+      <h2>Access Scheme Fund</h2>
+      <p>The weekend is free to attend thanks to our event sponsors. If cost is a barrier to attending, take a look at information around our <n-link to='/weekend/access'>Access Scheme Fund</n-link>, which awards up to £50 towards travel.</p>
+      <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrC87zSvLlyhIHc3?backgroundColor=blue&prefill_Event=Birmingham%20Weekend%20Finale" frameborder="0" onmousewheel="" width="100%" height="2967" style="background: transparent; border: 1px solid #ccc;"></iframe>
     </div>
   </div>
 </template>
@@ -21,3 +21,9 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+iframe {
+  margin-top: 2em;
+}
+</style>

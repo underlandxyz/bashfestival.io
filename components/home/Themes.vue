@@ -24,7 +24,7 @@
 }
 h2 {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 .themes {
   display: grid;

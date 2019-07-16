@@ -1,115 +1,80 @@
 export const state = () => ({
   title: 'BASH Festival of Code',
   hubs: [{
-      color: '#ACE9DD',
+      color: '#FFC1D4',
       city: 'bristol',
       name: 'Aerospace Bristol',
       address: 'Hayes Way, Patchway, BS34 5BZ',
+      leader: {
+        name: 'Richard Standing',
+        email: 'richard.standing@rolls-royce.com'
+      },
       notes: 'This hub is sponsored by Rolls-Royce, and attendees will have access to the Aerospace Bristol museum.',
       loc: {
         lat: 51.52273,
         lng: -2.579225
-      }
+      },
+      formPrefill: 'Bristol%20Week'
     },
     {
       color: '#B7DCF4',
       city: 'sheffield',
       name: 'University of Sheffield',
       address: 'Sir Frederick Mappin Building, Mappin St, S1 3JD',
+      leader: {
+        name: 'Sanziana Chiorescu',
+        email: 'sanzi@bashfestival.io'
+      },
       loc: {
         lat: 53.382324,
         lng: -1.478628
-      }
-    },
-    {
-      color: '#DBBDE5',
-      city: 'liverpool',
-      name: 'Barclays Wavertree',
-      address: 'Wavertree Technology Park, L7 9PQ',
-      loc: {
-        lat: 53.405192,
-        lng: -2.922825
-      }
+      },
+      formPrefill: 'Sheffield%20Week'
     },
     {
       color: '#FBEBA5',
       city: 'plymouth',
       name: 'Digital Plymouth',
       address: 'THINQTANQ, Fairbairn House, Higher Lane, PL1 2AN',
+      leader: {
+        name: 'Chris Hunt',
+        email: 'chris@controlledfrenzy.co.uk '
+      },
       loc: {
         lat: 50.369287,
         lng: -4.138632
-      }
+      },
+      formPrefill: 'Plymouth%20Week'
     },
     {
-      color: '#F6D3AF',
+      color: '#A4F2CB',
       city: 'southampton',
       name: 'Soton Network Eagle',
       address: 'Network Eagle Lab, Portland Terrace, SO14 7SJ',
+      leader: {
+        name: 'Elbrie De Kock',
+        email: 'elbrie@techagekids.com'
+      },
       loc: {
         lat: 50.904980,
         lng: -1.406250
-      }
+      },
+      formPrefill: 'Southampton%20Week'
     },
     {
       color: '#F8C3B9',
       city: 'london',
       name: 'Goldsmiths, University of London',
       address: '8 Lewisham Way, New Cross, SE14 6NW',
+      leader: {
+        name: 'Kevin Lewis',
+        email: 'kevin@bashfestival.io'
+      },
       loc: {
         lat: 51.477718,
         lng: -0.039540
-      }
-    },
-    {
-      color: '#F3DDE3',
-      city: 'birmingham',
-      name: 'Rebel Makers Brum',
-      address: 'Birmingham City Center - Exact location TBC',
-      loc: {
-        lat: 52.486244,
-        lng: -1.890401
-      }
-    },
-    {
-      color: '#DBE2E2',
-      city: 'edinburgh',
-      name: 'Barclays Eagle Labs - Codebase',
-      address: 'Codebase, 38 Castle Terrace, EH3 9DZ',
-      loc: {
-        lat: 55.969650,
-        lng: -2.943250
-      }
-    },
-    {
-      color: '#fff9c2',
-      city: 'peterborough',
-      name: 'BGL Group',
-      address: 'Pegasus House, Bakewell Road, PE2 6YS',
-      loc: {
-        lat: 52.589519,
-        lng: -0.286328
-      }
-    },
-    {
-      color: '#B5EFCE',
-      city: 'nottingham',
-      name: 'University of Nottingham',
-      address: 'Jubilee Campus, Wollaton Road, NG8 1BB',
-      loc: {
-        lat: 52.955378,
-        lng: -1.189286
-      }
-    },
-    {
-      color: '#ffc4d4',
-      city: 'manchester',
-      name: 'Manchester Science Park',
-      address: 'MSP Tech Incubator, Manchester Technology Centre, Oxford Road, M1 7ED',
-      loc: {
-        lat: 53.463089,
-        lng: -2.238424
-      }
+      },
+      formPrefill: 'London%20Week'
     },
   ]
 });

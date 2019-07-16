@@ -13,13 +13,13 @@
         </div>
       </div>
       <div class='section'>
-        <h2>The Event</h2>
+        <h2>Guides</h2>
         <div class="items">
-          <n-link to='/week'>The Week</n-link>
-          <n-link to='/week/hubs'>Regional Hubs</n-link>
-          <n-link to='/weekend'>Weekend Finale</n-link>
-          <n-link to='/weekend/venue'>Weekend Venue</n-link>
-          <!-- <n-link to='/packing'>Packing List</n-link> -->
+          <n-link to='/guides/challenges'>Challenges</n-link>
+          <n-link to='/guides/packing'>What to Bring</n-link>
+          <n-link to='/guides/sleeping'>Sleeping Arragements</n-link>
+          <n-link to='/guides/resources'>Technical Resources</n-link>
+          <n-link to='/guides/videos'>Daily Videos</n-link>
         </div>
       </div>
       <div class='section'>
@@ -42,10 +42,10 @@
       <div class='section'>
         <h2>Policies</h2>
         <n-link to='/policies/conduct'>Code of Conduct</n-link>
-        <!-- <n-link to='/policies/incident-response'>Incident Response Policy</n-link> -->
         <n-link to='/policies/health-safety'>Health & Safety Policy</n-link>
         <n-link to='/policies/safeguarding'>Safeguarding Policy</n-link>
         <n-link to='/policies/privacy'>Privacy Policy</n-link>
+        <n-link to='/policies/incident-response'>Incident Response Policy</n-link>
       </div>
     </div>
     <div id="underland">

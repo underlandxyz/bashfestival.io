@@ -3,7 +3,7 @@
     <Hero />
     <Intro />
     <Sponsors />
-    <Stats />
+    <!-- <Stats /> -->
     <Themes />
     <MailingList />
   </div>

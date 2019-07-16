@@ -22,7 +22,8 @@
         <h2>Summary ✨</h2>
         <div class="split">
           <ul>
-            <li>350 young people aged 13-17</li>
+            <!-- <li>350 young people aged 13-17</li> -->
+            <li>Young people aged 13-17</li>
             <li>These young people all have some degree of prior technical skill</li>
             <li>During the week young people are in one of our regional events ('hubs') across the UK</li>
             <li>During the weekend they're at the finale in Birmingham</li>
