@@ -33,17 +33,21 @@
       </a>
     </div>
     <div class="bottom">
-      <div></div>
-      <a href="https://www.barclays.co.uk/" target="_blank">
-        <img src="~/assets/img/sponsors/barclays.png" alt="Barclays">
-      </a>
       <a href="https://twitter.com/adamamyl" target="_blank">
         <img src="~/assets/img/sponsors/adamamyl.png" alt="Adam McGregor">
       </a>
       <a href="http://puntofisso.net/" target="_blank">
         <img src="~/assets/img/sponsors/puntofisso.png" alt="In Other News by @puntofisso">
       </a>
-      <div></div>
+      <a href="https://www.bglgroup.co.uk/" target="_blank">
+        <img src="~/assets/img/sponsors/bgl.png" alt="BGL Group">
+      </a>
+      <a href="https://www.barclays.co.uk/" target="_blank">
+        <img src="~/assets/img/sponsors/barclays.png" alt="Barclays">
+      </a>
+      <a href="https://underland.events" target="_blank">
+        <img src="~/assets/img/sponsors/underland-events.png" alt="Underland Events">
+      </a>
     </div>
   </div>
 </template>
