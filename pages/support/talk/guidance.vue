@@ -14,7 +14,7 @@
         <li>You have an hour for each session. You don't need to fill it. Young people can return to our main breakout space if you run short, but ideally we'd like you to fill at least 40 minutes please.</li>
         <li>The audience are 13-17 year olds with a small degree of existing technical knowledge. Please keep this in mind when devising your content in terms of difficulty. Assume little to no knowledge in the subject areas you're talking about.</li>
       </ul>
-      <p>If you need any specific setup beyond round tables in the workshop room and a theatre-style seating arrangement in the talk toom, please let us know with as much notice as possible. Thanks!</p>
+      <p>If you need any specific setup beyond round tables in the workshop room and a theatre-style seating arrangement in the talk room, please let us know with as much notice as possible. Thanks!</p>
     </div>
   </div>
 </template>

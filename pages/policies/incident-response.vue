@@ -8,7 +8,7 @@
       <p>Any and all measures stated in this policy fall within the remit of at least one or more of the following responsible parties:</p>
       <ul>
         <li>The <n-link to='/about/team'>BASH Festival of Code</n-link> are responsible for themselves, hub leaders, mentors, volunteers and participants across all hubs.</li>
-        <li>Hub leaders - the main point of contact in each regional hub - are responsiblefor themselves and the mentors and participants in the hub.</li>
+        <li>Hub leaders - the main point of contact in each regional hub - are responsible for themselves and the mentors and participants in the hub.</li>
         <li>Week mentors are responsible for themselves and the participants in their hub.</li>
         <li>Weekend volunteers are responsible for themselves and the participants taking part at the weekend.</li>
       </ul>

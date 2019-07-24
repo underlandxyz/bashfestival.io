@@ -15,7 +15,7 @@
         <li>Additionally we have intentionally kept equipment requirements to a reasonable minimum, and geographic locations of hubs and the weekend venue distributed to positively include applicants from different socio-economic backgrounds.</li>
         <li>As the primary dividing barriers we have identified in what traditionally defies inclusivity in technical fields, we will be therefore be happy with significant representation in all three areas for Year 1, with post-event analysis enabling us to further develop inclusivity mechanisms for future events.</li>
       </ul>
-      <p>Of course we always want to meet or exceed 50% for all of these groups - these goals express the minumum we will be happy with in Year 1.</p>
+      <p>Of course we always want to meet or exceed 50% for all of these groups - these goals express the minimum we will be happy with in Year 1.</p>
       <h2>Aspirations</h2>
       <p>BASH Festival of Code should demonstrably impact:</p>
       <ul>

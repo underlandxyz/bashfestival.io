@@ -25,7 +25,7 @@
       <p>Absolutely everyone involved with our activities, including participants, sponsors, guests, volunteers and our organisers, are subject to our Code of Conduct.</p>
       <p>If a person engages in any harassing behaviour, we may take any action we deem appropriate, including (but not limited to) warnings, expulsion, and banning, with no eligibility for reimbursement or refund of any type.</p>
       <h2>What we won't respond to</h2>
-      <p>Our community priotises marginalised people's safety over privileged people's comfort. We will not act on complaints regarding:</p>
+      <p>Our community prioritises marginalised people's safety over privileged people's comfort. We will not act on complaints regarding:</p>
       <ul>
         <li>Reverse-isms, including reverse racism, reverse sexism, and cisphobia.</li>
         <li>Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you"</li>

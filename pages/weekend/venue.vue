@@ -3,7 +3,7 @@
     <SubHeaderWeekend />
     <div class='w content'>
       <h1 id="title">Weekend Venue</h1>
-      <p>The weekend venue is <a href="https://www.millenniumpoint.org.uk/" target='_blank'>Millenium Point</a> in Birmingham. The whole event, including the overnight portion, will be in this space. It's a 10 minute walk from Birmingham New Street station. If you require support in planning or paying for your trip to the venue, please <n-link to='/contact'>get in touch</n-link> or take a look at <n-link to='/weekend/access'>our Access Scheme Fund</n-link>.</p>
+      <p>The weekend venue is <a href="https://www.millenniumpoint.org.uk/" target='_blank'>Millennium Point</a> in Birmingham. The whole event, including the overnight portion, will be in this space. It's a 10 minute walk from Birmingham New Street station. If you require support in planning or paying for your trip to the venue, please <n-link to='/contact'>get in touch</n-link> or take a look at <n-link to='/weekend/access'>our Access Scheme Fund</n-link>.</p>
       <p><i class='fas fa-map-pin'></i> Curzon St, Birmingham B4 7XG</p>
       <div class="split">
         <GmapMap
@@ -17,7 +17,7 @@
             :draggable="true" />
         </GmapMap>
         <div class="img">
-          <img src="~/assets/img/millenium-point.jpg" alt="Picture of Millenium Point">
+          <img src="~/assets/img/millenium-point.jpg" alt="Picture of Millennium Point">
         </div>
       </div>
     </div>

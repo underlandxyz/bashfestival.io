@@ -15,11 +15,11 @@
         <li><n-link to='/waiver'>Waiver for under 16s to travel alone</n-link></li>
         <li>
           <p><b>Arrives with no ticket</b></p>
-          <p>Verify they're in the right age bracket. Take them in (we have a duty of care). Get them to fill in <a href="https://airtable.com/shrC87zSvLlyhIHc3">the ticket form</a>. Their parent/guardian must fill in the <a href="https://bashfestival.io/permission">parental consent</a> form before they leave. They will get emailed this automatically when the ticket form is fileld in. Please tell us.</p>
+          <p>Verify they're in the right age bracket. Take them in (we have a duty of care). Get them to fill in <a href="https://airtable.com/shrC87zSvLlyhIHc3">the ticket form</a>. Their parent/guardian must fill in the <a href="https://bashfestival.io/permission">parental consent</a> form before they leave. They will get emailed this automatically when the ticket form is filled in. Please tell us.</p>
         </li>
         <li>
           <p><b>Arrives with no parental consent form having been filled in</b></p>
-          <p>Their parent/guardian must fill in the <a href="https://bashfestival.io/permission">parental consent</a> form before they leave. They will get emailed this automatically when the ticket form is fileld in. Please tell us.</p>
+          <p>Their parent/guardian must fill in the <a href="https://bashfestival.io/permission">parental consent</a> form before they leave. They will get emailed this automatically when the ticket form is filled in. Please tell us.</p>
         </li>
         <li>
           <p><b>If attendee is under 16, arrives without parent, and doesn't have a parental waiver</b></p>

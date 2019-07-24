@@ -26,7 +26,7 @@
       <p><i>Note: we've always found it best to try and get directly in touch with an ICT/Computing teacher or Head of Department. They generally have a better idea of the young people who'd most benefit from this event.</i></p>
       <article>
         <p>I thought some of your students might be interested in <a href='https://bashfestival.io'>BASH Festival of Code</a>. It's a free week-long coding festival for 13-17 year olds across the UK in August. On Monday-Friday young people are in one of {{hubNumber}} regional hubs around the UK and build projects together using their technical skills and supported by mentors.</p>
-        <p>At the weekend there's a finale in Birmingham where they'll showcase their projects and have a free multi-stream conference, as well as the opporutnity to talk with industry partners about their work and careers. There's an Access Scheme to help with the cost of travel to the weekend.</p>
+        <p>At the weekend there's a finale in Birmingham where they'll showcase their projects and have a free multi-stream conference, as well as the opportunity to talk with industry partners about their work and careers. There's an Access Scheme to help with the cost of travel to the weekend.</p>
         <p>If you have any particularly engaged students who have some coding ability, please do share this with them and their parents. Tickets are free, but first come first served, so encourage them to sign up as this is a great opportunity!</p>
         <p>Let me know if you have any questions!</p>
       </article>

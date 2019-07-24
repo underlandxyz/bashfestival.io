@@ -6,7 +6,7 @@
     <p>Illustrations of our mascot jamie the Jaberwock are by <a href="https://twitter.com/kmoneyus">Kelly Mahoney</a>.</p>
     <p>The stars animation on the homepage was inspired by <a href="https://codepen.io/Suburbanno/pen/OXZrvw">this CodePen by Suburbanno</a>.</p>
     <p>The wave animation on the homepage was inspired by <a href="https://codepen.io/plavookac/pen/QMwObb">this CodePen by plavookac</a>.</p>
-    <p>Icons across the site are from both the <a href="https://www.streamlineicons.com/ux/">Steamline Illustrations UX pack</a> and <a href="https://fontawesome.com/">Font Awesome</a>.</p>
+    <p>Icons across the site are from both the <a href="https://www.streamlineicons.com/ux/">Streamline Illustrations UX pack</a> and <a href="https://fontawesome.com/">Font Awesome</a>.</p>
   </div>
 </template>
 

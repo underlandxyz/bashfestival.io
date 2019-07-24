@@ -12,12 +12,12 @@
       <h2>Interested?</h2>
       <p>We're still confirming the process to apply as a mentor, but here are the basics:</p>
       <ul>
-        <li>You'll need to complete a new DBS Check or provide an existing certificate if you've registered with the DBS Update Service. If you have an existing DBS Check but have not registered with the DBS Update Service, then you'll need to compelte a new check which we will organise.</li>
-        <li>We're specifcially looking for technical mentors - so proficiency with at least 1 programming language is a must. Ideally, you should be comfortable explaining these topics too.</li>
+        <li>You'll need to complete a new DBS Check or provide an existing certificate if you've registered with the DBS Update Service. If you have an existing DBS Check but have not registered with the DBS Update Service, then you'll need to complete a new check which we will organise.</li>
+        <li>We're specifically looking for technical mentors - so proficiency with at least 1 programming language is a must. Ideally, you should be comfortable explaining these topics too.</li>
         <li>You'll need to commit to a minimum of 2 full consecutive days during the week. Days are 10am-4pm.</li>
       </ul>
       <p>Finally - thank you. Even being here and considering helping means a lot to us.</p>
-      <h2>We are no longer acceptiong new mentors.</h2>
+      <h2>We are no longer accepting new mentors.</h2>
       <!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrCvYaeVb3RQC2Hv?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
       <h2>Questions?</h2>
       <n-link to='/contact'>Please get in touch with our Volunteer & Mentor Coordinator</n-link> -->

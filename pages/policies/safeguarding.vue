@@ -65,7 +65,7 @@
       <ul>
         <li>
           <b>Host Venue</b>
-          <p>The <n-link to='/weekend/venue'>host venue, Millenium Point</n-link>, is a public space, however:</p>
+          <p>The <n-link to='/weekend/venue'>host venue, Millennium Point</n-link>, is a public space, however:</p>
           <ul>
             <li>Within the venue, all spaces and utilities that will be accessible by participants are exclusively for their use for the duration of the weekend's events.</li>
             <li>Access points for entry/exit will be staffed at all times by authorised personnel to ensure an accurate register of whereabouts at all times.</li>

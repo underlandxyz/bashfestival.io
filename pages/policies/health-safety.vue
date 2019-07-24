@@ -8,7 +8,7 @@
       <p>The measures stated in this policy are the responsibility of at least one or more of the following parties:</p>
       <ul>
         <li>The <n-link to='/about/team'>BASH Festival of Code</n-link> are responsible for themselves, hub leaders, mentors, volunteers and participants across all hubs.</li>
-        <li>Hub leaders - the main point of contact in each regional hub - are responsiblefor themselves and the mentors and participants in the hub.</li>
+        <li>Hub leaders - the main point of contact in each regional hub - are responsible for themselves and the mentors and participants in the hub.</li>
         <li>Week mentors are responsible for themselves and the participants in their hub.</li>
         <li>Weekend volunteers are responsible for themselves and the participants taking part at the weekend.</li>
         <li>Young people participating in the event are only responsible for themselves.</li>
@@ -54,7 +54,7 @@
       <h2>Schedule 2: August 10-11 2019 (Finale)</h2>
       <p>As per schedule 1, this section comprises:</p>
       <ul>
-        <li>The existing on-site health and safety policy of the host venue (BASH Festival of Code spaces in Millenium Point, Curzon Street, Birmingham B4 7XG)</li>
+        <li>The existing on-site health and safety policy of the host venue (BASH Festival of Code spaces in Millennium Point, Curzon Street, Birmingham B4 7XG)</li>
         <li>Common policy matters that will apply to all locations and workspaces used within this host venue (see measures 1-18 in schedule 1).</li>
         <li>Following site inspection and risk assessment on 29/07/2019, all spaces and activities in Schedule 2 fall into compliance with policy measures 1-18 as stated in Schedule 1.</li>
       </ul>

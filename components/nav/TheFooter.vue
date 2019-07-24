@@ -17,7 +17,7 @@
         <div class="items">
           <n-link to='/guides/challenges'>Challenges</n-link>
           <n-link to='/guides/packing'>What to Bring</n-link>
-          <n-link to='/guides/sleeping'>Sleeping Arragements</n-link>
+          <n-link to='/guides/sleeping'>Sleeping Arrangements</n-link>
           <n-link to='/guides/resources'>Technical Resources</n-link>
           <n-link to='/guides/videos'>Daily Videos</n-link>
         </div>

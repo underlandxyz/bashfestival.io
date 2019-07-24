@@ -68,7 +68,7 @@ export default {
           },
           { 
             q: 'Does a parent/guardian need to stay?',
-            a: 'No, and we would prefer they don\'t unless previously agreed. All participants will need parental permission to attend before their space at a Hub is confirmed. Emergency details will be shared with the Underland team and your regioanl event leader.'
+            a: 'No, and we would prefer they don\'t unless previously agreed. All participants will need parental permission to attend before their space at a Hub is confirmed. Emergency details will be shared with the Underland team and your regional event leader.'
           },
           {
             q: 'Will there be a space for religious observance?',
