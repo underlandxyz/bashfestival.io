@@ -48,7 +48,7 @@ a {
   text-transform: uppercase;
   text-decoration: none;
   padding: 0.25em 0.5em;
-  font-size: 1.25em;
+  font-size: 1em;
 }
 a.finale {
   background: var(--blue);

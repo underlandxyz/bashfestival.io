@@ -1,21 +1,6 @@
 export const state = () => ({
   title: 'BASH Festival of Code',
-  hubs: [{
-      color: '#FFC1D4',
-      city: 'bristol',
-      name: 'Aerospace Bristol',
-      address: 'Hayes Way, Patchway, BS34 5BZ',
-      leader: {
-        name: 'Richard Standing',
-        email: 'richard.standing@rolls-royce.com'
-      },
-      notes: 'This hub is sponsored by Rolls-Royce, and attendees will have access to the Aerospace Bristol museum.',
-      loc: {
-        lat: 51.52273,
-        lng: -2.579225
-      },
-      formPrefill: 'Bristol%20Week'
-    },
+  hubs: [
     {
       color: '#B7DCF4',
       city: 'sheffield',

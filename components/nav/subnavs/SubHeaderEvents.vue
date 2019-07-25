@@ -13,7 +13,6 @@ export default {
         path: '/events'
       },
       subnav: [
-        { text: 'Bristol', path: '/events/bristol' },
         { text: 'Sheffield', path: '/events/sheffield' },
         { text: 'Plymouth', path: '/events/plymouth' },
         { text: 'Southampton', path: '/events/southampton' },

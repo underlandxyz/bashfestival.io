@@ -46,7 +46,6 @@ module.exports = {
 
   generate: {
     routes: [
-      '/week/hubs/bristol',
       '/week/hubs/sheffield',
       '/week/hubs/liverpool',
       '/week/hubs/manchester',
@@ -58,7 +57,6 @@ module.exports = {
       '/week/hubs/nottingham',
       '/week/hubs/peterborough',
       '/week/hubs/mancehster',
-      '/events/bristol',
       '/events/london',
       '/events/plymouth',
       '/events/sheffield',
