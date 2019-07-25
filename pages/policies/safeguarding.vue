@@ -48,7 +48,7 @@
           <p>Work spaces will be attended by multiple DBS checked adults at all times. We will work with each Hub Leader to ensure there is a contingency plan to ensure that there is as even a spread of personnel on hand to remove any eventuality of lone-working or interruption of work sessions until cover supervision can be sourced.</p>
         </li>
         <li>
-          <b>Medical & Accessilibty Requirements</b>
+          <b>Medical & Accessibility Requirements</b>
           <p>Each young person's medical and accessibility requirements, and parent/guardian contact information, will be collated at the ticketing stage and made available only to Hub Leaders and core BASH Festival team members. More details about your data are in our <n-link to='/policies/privacy'>Privacy Policy</n-link>.</p>
         </li>
         <li>

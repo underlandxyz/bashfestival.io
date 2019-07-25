@@ -15,12 +15,11 @@
         <p>In this challenge you can use tech (physical or software-based) to create noise. You might want to look at using WebAudio or specialised tools like MaxMSP.</p>
         <p>When presenting music challenges in the science fair try not to have it running too loud or the space will become vey noisy.</p>
         <h2>* (Wildcard)</h2>
-        <p>If you want to build a project that doesn't fit our three themes that's okay too - they are only there to provide some inspiration. The final prize will be for the * (wildcard) challenge, which is a bucket for all proejcts that don't belong elsewhere.</p>
+        <p>If you want to build a project that doesn't fit our three themes that's okay too - they are only there to provide some inspiration. The final prize will be for the * (wildcard) challenge, which is a bucket for all projects that don't belong elsewhere.</p>
         <p>Every project will automatically be part of this challenge, even if you've clearly taken part in others.</p>
         <h2>Finally...</h2>
         <ul>
           <li>No team size limits - you can work alone or everyone in your hub can work on one challenge. However, we find teams of 3-4 work best.</li>
-          <li>Prizes are little limited edition BASH Festival pins, and we have enough for large teams.</li>
           <li>You can absolutely mix multiple challenges - some projects will clearly belong in multiple.</li>
         </ul>
       </div>
