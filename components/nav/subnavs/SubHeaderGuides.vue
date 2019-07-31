@@ -17,7 +17,7 @@ export default {
         { text: 'Challenges', path: '/guides/challenges' },
         { text: 'Technical Resources', path: '/guides/resources' },
         { text: 'Videos', path: '/guides/videos' },
-        { text: 'Sleeping', path: '/guides/sleeping' },
+        { text: 'Sleeping', path: '/guides/sleeping' }
       ]
     }
   },
