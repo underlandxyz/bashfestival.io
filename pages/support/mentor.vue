@@ -17,9 +17,10 @@
         <li>You'll need to commit to a minimum of 2 full consecutive days during the week. Days are 10am-4pm.</li>
       </ul>
       <p>Finally - thank you. Even being here and considering helping means a lot to us.</p>
-      <iframe class="airtable-embed" src="https://airtable.com/embed/shrCvYaeVb3RQC2Hv?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      <h2>We are no longer acceptiong new mentors.</h2>
+      <!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrCvYaeVb3RQC2Hv?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
       <h2>Questions?</h2>
-      <n-link to='/contact'>Please get in touch with our Volunteer & Mentor Coordinator</n-link>
+      <n-link to='/contact'>Please get in touch with our Volunteer & Mentor Coordinator</n-link> -->
     </div>
   </div>
 </template>
