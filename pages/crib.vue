@@ -12,6 +12,7 @@
     </ul>
     <h2>During the weekend</h2>
     <ul>
+      <li><n-link to='/guides/packing'>Packing list - what to bring</n-link></li>
       <li><n-link to='/weekend'>Weekend intro</n-link></li>
       <li><n-link to='/weekend/venue'>Weekend venue</n-link></li>
       <li><n-link to='/weekend/schedule'>Schedule</n-link></li>
