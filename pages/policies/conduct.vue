@@ -44,11 +44,11 @@
       </ul>
       <h3>During the weekend</h3>
       <p>Any of the above methods will work, but you can additionally approach any volunteer, who will be clearly marked.</p>
-      <h2>Changes to policy</h2>
-      <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
       <div class="form">
         <iframe class="airtable-embed" src="https://airtable.com/embed/shrj780oQ2ttOJYSH?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="655" style="background: transparent; border: 1px solid #ccc;"></iframe>
       </div>
+      <h2>Changes to policy</h2>
+      <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
       <div class="log">
         <h2>Revisions</h2>
         <ul>

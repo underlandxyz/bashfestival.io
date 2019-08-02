@@ -55,14 +55,15 @@
       <p>As per schedule 1, this section comprises:</p>
       <ul>
         <li>The existing on-site health and safety policy of the host venue (BASH Festival of Code spaces in Millenium Point, Curzon Street, Birmingham B4 7XG)</li>
-        <li>Common policy matters that will apply to all locations and workspaces used within this host venue (see measures 1-18 in schedule 10).</li>
-        <li>Prior to activity at this venue, the BASH team will be conducting an advance survey to ensure compliance with this policy.</li>
+        <li>Common policy matters that will apply to all locations and workspaces used within this host venue (see measures 1-18 in schedule 1).</li>
+        <li>Following site inspection and risk assessment on 29/07/2019, all spaces and activities in Schedule 2 fall into compliance with policy measures 1-18 as stated in Schedule 1.</li>
       </ul>
       <div class="log">
         <h2>Revisions</h2>
         <ul>
           <li>01 July 2019: Initial version written</li>
           <li>16 July 2019: Removed a schedule related to travel to the weekend as this is now the responsibility of attendees</li>
+          <li>02 August 2019: Listed date of risk assessment in Schedule 2 section</li>
         </ul>
       </div>
     </div>

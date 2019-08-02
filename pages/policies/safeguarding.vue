@@ -81,12 +81,21 @@
           <p>Young people affected by hypersensory conditions will be afforded access to designated areas such that they may more comfortably manage their experience of the event </p>
         </li>
       </ul>
+      <h2>Receiving and Handing Off Attendees</h2>
+      <h3>When no Permission to attend has been granted</h3>
+      <p>In the eventuality of young people for whom we do not have a completed permission form arriving to take part in activities, either at their regional hub or at the weekend finale, the BASH team will implement a duty of care to host that young person until a parent/guardian can be contacted to either grant the outstanding permission, or collect the young person if they do not consent to that person attending.</p>
+      <h3>When no parent/guardian is able to drop off or collect an attendee</h3>
+      <p>Young persons with approved tickets of 16 years or older may arrive and depart from the event unaccompanied.</p>
+      <p>Young persons with approved tickets under the age of 16 must be accompanied by a parent/guardian when being dropped off and collected from the venue their activities are being held at.</p>
+      <p>If a young person under 16 arrives at their event unaccompanied, they will be permitted to participate in the event but cannot be released at the end of the session unless collected by a parent/guardian. in this instance the Hub Leader will notify a member of the BASH Team to contact the parent/guardian to ensure this action is followed through.</p>
+      <p>If a young person under 16 is persistently or unreasonably unaccompanied to and from activities then this may constitute a violation of our Safeguarding Policy.</p>
       <h2>Changes to policy</h2>
       <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
       <div class="log">
         <h2>Revisions</h2>
         <ul>
           <li>26 March 2019: Initial version written</li>
+          <li>02 August 2019: Added section on Receiving and Handing Off Attendees</li>
         </ul>
       </div>
     </div>

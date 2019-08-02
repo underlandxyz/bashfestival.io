@@ -49,6 +49,22 @@
           <p>You have the right to request that you be afforded access to a private space where you can be alone if you so require. This will be accommodated where practical unless it conflicts with the circumstances around which other individuals are similarly accommodated, or in any other way detracts from the concerns of the larger group. </p>
         </li>
       </ul>
+      <h2>Picture and Video Privacy/Sharing/Owning Guidance</h2>
+      <p>These guidelines govern how participants are able to retain their rights to privacy from appearing in photos or videos when attending any or all parts of the BASH Festival of Code.</p>
+      <h3>Applicability & Scope</h3>
+      <p>This policy affects all participating young people and is intended for consideration at all facing interactions in sites used for BASH Festival activities between parties with regard to the core dates of 5th to 11th August 2019.</p>
+      <p>The remit in all cases applies only to the participant directly affected.</p>
+      <h3>Permission</h3>
+      <p>All parents or guardians giving permission for young people to attend festival activities are required to express consent or not to appear in photographs or videos while taking part.</p>
+      <h3>Indication</h3>
+      <p>Upon arrival at regional hub sessions, the hub leader is charged with issuing yellow lanyards to any participants that do not wish to appear in photos or videos. For weekend event activities, the attendees will be issued these upon arrival and registration at Millennium Point by a member of the BASH team.</p>
+      <h3>Instruction</h3>
+      <p>As part of pre-event guidance, all attendees will be shown a video explaining the following guidelines on how to comply with this policy.</p>
+      <ol>
+        <li>When taking photos or videos as part of the activities, attendees are to refrain from capturing the image of anybody wearing a yellow lanyard.</li>
+        <li>Images or video that inadvertently or accidentally capture anybody wearing a yellow lanyard are to be deleted immediately. There will be strictly no exceptions permitted.</li>
+        <li>Any instances of these guidelines not being adhered to will be dealt with as a violation of Personal Privacy.</li>
+      </ol>
       <p>If you have any questions about these criteria and how they make affect your involvement in the BASH Festival of Code then <n-link to='/contact'>please get in touch</n-link>.</p>
       <h2>Changes to policy</h2>
       <p>This policy might change over time, which we reserve the right to do without notice. If we do make edits, you'll find them listed below.</p>
@@ -57,6 +73,7 @@
         <ul>
           <li>04 July 2019: Added Privacy of Person Policy</li>
           <li>22 March 2019: Initial version written</li>
+          <li>02 August 2019: Added section on Picture and Video Privacy/Sharing/Owning Guidance</li>
         </ul>
       </div>
     </div>
