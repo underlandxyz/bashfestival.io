@@ -15,7 +15,8 @@
       <GmapMap :center="hub.loc" :zoom="9" map-type-id="roadmap" style="width: 100; height: 300px">
         <GmapMarker :position="hub.loc" :clickable="true" :draggable="true" />
       </GmapMap>
-      <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" :src="hub.hubEmbed" frameborder="0" onmousewheel="" width="100%" height="2967" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      <h2>Tickets for the week events are no longer available. However you can still get them for <n-link to='/weekend'>the weekend</n-link>.</h2>
+      <!-- <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" :src="hub.hubEmbed" frameborder="0" onmousewheel="" width="100%" height="2967" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
     </div>
   </div>
 </template>
@@ -86,5 +87,8 @@ i {
 }
 iframe {
   margin-top: 2em;
+}
+h2 {
+  margin-top: 1em;
 }
 </style>
