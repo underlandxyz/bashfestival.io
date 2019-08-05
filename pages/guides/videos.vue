@@ -7,7 +7,7 @@
       <iframe src="https://www.youtube.com/embed/BpEzbyYLRw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h2>Tuesday</h2>
       <p>In this video we'll be discussing how to decide on exactly what parts of your idea to build, how to choose technologies and splitting up work and communicating as a team.</p>
-      <!-- <iframe src="https://www.youtube.com/embed/R4_NAiQFifc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+      <iframe src="https://www.youtube.com/embed/R4_NAiQFifc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h2>Wednesday</h2>
       <p>In this video we'll talk about when it's right to change your idea, and how to back up your work so you don't lose it.</p>
       <!-- <iframe src="https://www.youtube.com/embed/qV6fde6NyUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
