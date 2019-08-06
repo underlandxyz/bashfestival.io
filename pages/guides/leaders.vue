@@ -12,18 +12,19 @@
         <li><n-link to='/guides/videos'>Daily videos (updated late each night)</n-link></li>
         <li><a href="https://bashfestival.io/reporting">End of day reporting</a></li>
         <li><n-link to='/policies/conduct'>Code of Conduct</n-link></li>
+        <li><a href="https://bashfestival.io/permission">Parental permission form</a></li>
         <li><n-link to='/waiver'>Waiver for under 16s to travel alone</n-link></li>
         <li>
           <p><b>Arrives with no ticket</b></p>
           <p>Verify they're in the right age bracket. Take them in (we have a duty of care). Get them to fill in <a href="https://airtable.com/shrC87zSvLlyhIHc3">the ticket form</a>. Their parent/guardian must fill in the <a href="https://bashfestival.io/permission">parental consent</a> form before they leave. They will get emailed this automatically when the ticket form is fileld in. Please tell us.</p>
         </li>
         <li>
-          <p><b>Arrives with no parental consent form having been filled in</b></p>
-          <p>Their parent/guardian must fill in the <a href="https://bashfestival.io/permission">parental consent</a> form before they leave. They will get emailed this automatically when the ticket form is fileld in. Please tell us.</p>
-        </li>
-        <li>
           <p><b>If attendee is under 16, arrives without parent, and doesn't have a parental waiver</b></p>
           <p>We have a duty of care. Allow the attendee to take part but you must get hold of their parent/guardian before releasing them and have them fill in the waiver. Please tell us.</p>
+        </li>
+        <li>
+          <p><b>No packed lunch?</b></p>
+          <p>We don't want to set expectations but if there's a nearby shop do the cheapest lunch you possibly can (a meal deal most likely) and keep the receipt for us to reimburse. Realistically we're happy to spend up to £100 throughout the week on each hub for young people who missed the memo about food. Ideally this will only be a day 1 thing. </p>
         </li>
       </ul>
     </div>

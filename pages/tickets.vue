@@ -11,7 +11,8 @@
     <p>If the cost of the weekend is prohibitive, please take a look at our <n-link to='/weekend/access'>Access Scheme</n-link> and apply for a ticket through the scheme.</p>
     <div class="tickets">
       <h2>Tickets for the August 5th - 9th Week Events</h2>
-      <n-link :to='hub.path' v-for='hub in hubs' :key='hub.name' :style="{ background: hub.color }">{{hub.city}}</n-link>
+      <!-- <n-link :to='hub.path' v-for='hub in hubs' :key='hub.name' :style="{ background: hub.color }">{{hub.city}}</n-link> -->
+      <p>These tickets are no longer available.</p>
       <h2>Tickets for the August 10th - 11th Finale</h2>
       <n-link to='/weekend' class='finale'>Birmingham</n-link>
     </div>
