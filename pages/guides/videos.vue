@@ -13,7 +13,7 @@
       <iframe src="https://www.youtube.com/embed/qV6fde6NyUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h2>Thursday</h2>
       <p>In this video we'll cover documenting your work so you have something to show at the end of the event.</p>
-      <!-- <iframe src="https://www.youtube.com/embed/L6-sOJBH2Fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+      <iframe src="https://www.youtube.com/embed/L6-sOJBH2Fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h2>Friday</h2>
       <p>In this video we'll get you ready for presenting your idea and give you an idea of what to expect from the weekend.</p>
       <!-- <iframe src="https://www.youtube.com/embed/_NkSWlpK-zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
