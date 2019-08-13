@@ -14,7 +14,8 @@
       <!-- <n-link :to='hub.path' v-for='hub in hubs' :key='hub.name' :style="{ background: hub.color }">{{hub.city}}</n-link> -->
       <p>These tickets are no longer available.</p>
       <h2>Tickets for the August 10th - 11th Finale</h2>
-      <n-link to='/weekend' class='finale'>Birmingham</n-link>
+      <p>These tickets are no longer available.</p>
+      <!-- <n-link to='/weekend' class='finale'>Birmingham</n-link> -->
     </div>
   </div>
 </template>
