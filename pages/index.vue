@@ -5,7 +5,7 @@
     <Sponsors />
     <!-- <Stats /> -->
     <Themes />
-    <MailingList />
+    <!-- <MailingList /> -->
   </div>
 </template>
 
