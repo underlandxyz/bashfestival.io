@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/redirect-module": "^0.2.0",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
+    "nuxt": "^2.15.8",
     "v-click-outside": "^2.0.2",
     "vue2-google-maps": "^0.10.6"
   },
